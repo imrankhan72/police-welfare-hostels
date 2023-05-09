@@ -23,10 +23,10 @@
                                             Mobile No.
                                         </th>
                                         <th scope="col" class="px-6 py-3">
-                                            Category
+                                            Applied for
                                         </th>
                                         <th scope="col" class="px-6 py-3">
-                                            Price
+                                            PriceDate
                                         </th>
                                         <th scope="col" class="px-6 py-3">
                                             Action
@@ -43,10 +43,10 @@
                                                 {{$applicant->mobile_no}}
                                             </td>
                                             <td class="px-6 py-4">
-                                                Laptop
+                                                Indore
                                             </td>
                                             <td class="px-6 py-4">
-                                                $2999
+                                               {{$applicant->created_at}}
                                             </td>
                                             <td class="px-6 py-4">
                                                 <a href="{{route('applicants.show',$applicant)}}" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Details</a>

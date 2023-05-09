@@ -70,7 +70,8 @@ return redirect('apply-now')->with('success','Application submitted successfully
 Route::middleware('auth')->prefix('/admin')->group(function () {
 
     Route::get('/dashboard', function () {
-        return view('dashboard');
+        $applicants = Applicant::all();
+        return view('dashboard', compact('applicants'));
     })->name('dashboard');
 
     Route::resource('applicants', ApplicantController::class);
