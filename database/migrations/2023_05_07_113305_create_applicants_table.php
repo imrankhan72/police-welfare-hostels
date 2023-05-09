@@ -13,6 +13,7 @@ return new class extends Migration
     {
         Schema::create('applicants', function (Blueprint $table) {
             $table->id();
+            $table->integer('hostel_id')->default(1);
             $table->string('name');
             $table->string('father_name');
             $table->string('mother_name');

@@ -67,16 +67,19 @@ return redirect('apply-now')->with('success','Application submitted successfully
 
 //Admin Routes
 
-Route::resource('applicants', ApplicantController::class);
+Route::middleware('auth')->prefix('/admin')->group(function () {
 
-Route::get('/dashboard', function () {
-    return view('dashboard');
-})->middleware(['auth', 'verified'])->name('dashboard');
+    Route::get('/dashboard', function () {
+        return view('dashboard');
+    })->name('dashboard');
 
-Route::middleware('auth')->group(function () {
+    Route::resource('applicants', ApplicantController::class);
+
     Route::get('/profile', [ProfileController::class, 'edit'])->name('profile.edit');
     Route::patch('/profile', [ProfileController::class, 'update'])->name('profile.update');
     Route::delete('/profile', [ProfileController::class, 'destroy'])->name('profile.destroy');
 });
 
+
+//Auth routes
 require __DIR__.'/auth.php';
