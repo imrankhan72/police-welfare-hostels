@@ -9,7 +9,7 @@
         <div class="section-title">
             <h3> <span>{{__('messages.about_us')}}</span></h3>
         </div>
-
+{{--11--}}
         <div class="row member">
             <div class="col-lg-6" data-aos="fade-right" data-aos-delay="100">
                 <img src="assets/img/about.jpg" class="img-fluid" alt="">
