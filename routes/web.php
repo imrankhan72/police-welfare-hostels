@@ -4,6 +4,7 @@ use App\Http\Controllers\ApplicantController;
 use App\Http\Controllers\ProfileController;
 use App\Models\Applicant;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\App;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -16,6 +17,12 @@ use Illuminate\Support\Facades\Route;
 | be assigned to the "web" middleware group. Make something great!
 |
 */
+Route::get('/language/{locale}', function (string $locale) {
+    app()->setLocale($locale);
+    session()->put('locale', $locale);
+    return redirect()->back();
+});
+
 
 Route::view('/','website.index')->name('home');
 Route::view('/about-us','website.about-us')->name('about-us');

@@ -41,8 +41,8 @@
             <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
         </div>
         <div class="contact-info d-flex align-items-center">
-            <i class="d-flex align-items-center"><a href="#">हिंदी</a></i> &nbsp; |
-            <i class="d-flex align-items-center"><a href="#">English</a></i>
+            <i class="d-flex align-items-center"><a href="/language/hi">हिंदी</a></i> &nbsp; |
+            <i class="d-flex align-items-center"><a href="/language/en">English</a></i>
         </div>
     </div>
 </section>
@@ -57,27 +57,27 @@
 
         <nav id="navbar" class="navbar">
             <ul>
-                <li><a class="nav-link active" href="{{route('home')}}">Home</a></li>
-                <li class="dropdown"><a class="nav-link" href="#"><span>About</span><i class="bi bi-chevron-down"></i></a>
+                <li><a class="nav-link active" href="{{route('home')}}">{{ __('messages.home') }}</a></li>
+                <li class="dropdown"><a class="nav-link" href="#"><span>{{ __('messages.about_us') }}</span><i class="bi bi-chevron-down"></i></a>
                     <ul>
-                        <li><a href="{{route('about-us')}}">About Us</a></li>
-                        <li><a href="{{route('management-committee')}}">Management Committee</a></li>
+                        <li><a href="{{route('about-us')}}">{{ __('messages.about_us') }}</a></li>
+                        <li><a href="{{route('management-committee')}}">{{ __('messages.management_committee') }}</a></li>
                     </ul>
                 </li>
-                <li class="dropdown"><a class="nav-link" href="#"><span>Admission</span><i class="bi bi-chevron-down"></i></a>
+                <li class="dropdown"><a class="nav-link" href="#"><span>{{ __('messages.admission') }}</span><i class="bi bi-chevron-down"></i></a>
                     <ul>
-                        <li><a href="{{route('hostels')}}">Hostels</a></li>
-                        <li><a href="{{route('facilities')}}">Facilities</a></li>
-                        <li><a href="{{route('eligibility')}}">Eligibility</a></li>
-                        <li><a href="{{route('rules-regulations')}}">Rules & Regulations</a></li>
+                        <li><a href="{{route('hostels')}}">{{ __('messages.hostels') }}</a></li>
+                        <li><a href="{{route('facilities')}}">{{ __('messages.facilities') }}</a></li>
+                        <li><a href="{{route('eligibility')}}">{{ __('messages.eligibility') }}</a></li>
+                        <li><a href="{{route('rules-regulations')}}">{{ __('messages.rules-regulations') }}</a></li>
                     </ul>
                 </li>
-                <li><a class="nav-link " href="{{route('gallery')}}">Gallery</a></li>
-                <li><a class="nav-link " href="{{route('faqs')}}">FAQs</a></li>
-                <li><a class="nav-link" href="{{route('contact-us')}}">Contact Us</a></li>
+                <li><a class="nav-link " href="{{route('gallery')}}">{{ __('messages.gallery') }}</a></li>
+                <li><a class="nav-link " href="{{route('faqs')}}">{{ __('messages.faqs') }}</a></li>
+                <li><a class="nav-link" href="{{route('contact-us')}}">{{ __('messages.contact_us') }}</a></li>
                 <li>
                     <div class="btn-wrap pricing">
-                        <a href="{{route('apply-now')}}" class="btn-buy" style="padding: 8px 11px 10px 11px;">Apply Now</a>
+                        <a href="{{route('apply-now')}}" class="btn-buy" style="padding: 8px 11px 10px 11px;">{{ __('messages.apply_now') }}</a>
                     </div>
                 </li>
             </ul>
@@ -100,10 +100,10 @@
 <footer id="footer">
     <div class="container py-4">
         <div class="copyright">
-            &copy; Copyright 2023 <strong><span>Police Welfare Hostels</span></strong>. All Rights Reserved
+            {{ __('messages.copy_right') }}
         </div>
         <div class="credits">
-            Designed by-  <a href="#">Solwin Technologies</a>
+            {{ __('messages.designed_by') }}-  <a href="#">{{ __('messages.company_name') }}</a>
         </div>
     </div>
 </footer><!-- End Footer -->
