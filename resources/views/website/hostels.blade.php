@@ -20,8 +20,7 @@
         <section class="services">
             <div class="container" data-aos="fade-up">
                 <div class="section-title">
-                    <h3>Explore our <span>Hostels</span></h3>
-                    <p>Madhya Pradesh Police Department will provide accommodation facilities to the daughters of Policemen who wish to stay in cities having better opportunities of higher education.</p>
+                {!! __('messages.hostel_page') !!}
                 </div>
                 <div class="row">
                     <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">

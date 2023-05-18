@@ -26,6 +26,10 @@ return [
                      <p>Under the guidance of DGP Shri Sudhir Kumar Saxena Girls hostels have been established in Bhopal, Indore, and Gwalior districts. These hostels will ensure convenience to 'daughters' of the Police personnel (from Constables to Inspector rank) in pursuing their career. In Bhopal- 208, in Indore- 162 and Gwalior- 148 Girl student accommodations have been prepared, respectively. These will be managed by the district police force.</p>
                     <p>A nominal fee will be charged from the inmates for their stay up to a maximum of four years in these hostels.
 Police Welfare branch wishes to encourage Police Personnel below the rank of Inspector to send their daughters for higher studies in big cities of Madhya Pradesh.</p>
+",
+"hostel_page" => "
+<h3>Explore our Hostels</h3>
+<p>Madhya Pradesh Police Department will provide accommodation facilities to the daughters of Policemen who wish to stay in cities having better opportunities of higher education.</p>
 "
 ];
 
