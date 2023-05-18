@@ -44,7 +44,7 @@
 
                         <br/>
                         <p>
-                            <iframe class="mb-4 mb-lg-0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d234700.34596400216!2d77.24108052383016!3d23.199639464627683!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x397c428f8fd68fbd%3A0x2155716d572d4f8!2sBhopal%2C%20Madhya%20Pradesh!5e0!3m2!1sen!2sin!4v1684407453871!5m2!1sen!2sin" frameborder="0" style="border:0; width: 100%; height: 284px;" allowfullscreen></iframe>
+                            <iframe class="mb-4 mb-lg-0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d235527.45446938823!2d75.72376397472755!3d22.72391173166939!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3962fcad1b410ddb%3A0x96ec4da356240f4!2sIndore%2C%20Madhya%20Pradesh!5e0!3m2!1sen!2sin!4v1684431612883!5m2!1sen!2sin" frameborder="0" style="border:0; width: 100%; height: 284px;" allowfullscreen></iframe>
                         </p>
                     </div>
                 </div>
@@ -55,7 +55,7 @@
                         {!! __('messages.gwalior_address') !!}
                         <br/>
                         <p>
-                            <iframe class="mb-4 mb-lg-0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d234700.34596400216!2d77.24108052383016!3d23.199639464627683!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x397c428f8fd68fbd%3A0x2155716d572d4f8!2sBhopal%2C%20Madhya%20Pradesh!5e0!3m2!1sen!2sin!4v1684407453871!5m2!1sen!2sin" frameborder="0" style="border:0; width: 100%; height: 284px;" allowfullscreen></iframe>
+                            <iframe class="mb-4 mb-lg-0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d114542.67337517318!2d78.10849758782774!3d26.21428638096111!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3976c5d1792291fb%3A0xff4fb56d65bc3adf!2sGwalior%2C%20Madhya%20Pradesh!5e0!3m2!1sen!2sin!4v1684431703875!5m2!1sen!2sin" frameborder="0" style="border:0; width: 100%; height: 284px;" allowfullscreen></iframe>
                         </p>
                     </div>
                 </div>
