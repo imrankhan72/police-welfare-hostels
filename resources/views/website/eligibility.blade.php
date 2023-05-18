@@ -6,10 +6,10 @@
     <section class="breadcrumbs">
         <div class="container">
             <div class="d-flex justify-content-between align-items-center">
-                <h2>Eligibility </h2>
+                <h2>{{ __('messages.eligibility') }} </h2>
                 <ol>
-                    <li><a href="#">Admission</a></li>
-                    <li>Eligibility</li>
+                    <li><a href="#">{{ __('messages.admission') }}</a></li>
+                    <li>{{ __('messages.eligibility') }}</li>
                 </ol>
             </div>
         </div>
@@ -20,41 +20,40 @@
         <div class="container" data-aos="fade-up">
             <div class="row member">
                 <div class="section-title">
-                    <h3><span>Eligibility</span> for Hostel Admission</h3>
+                {!! __('messages.eligibility_page') !!}
                 </div>
                 <div class="col-lg-12 pt-4 pt-lg-0 content d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="100">
                     <ul class="text-justify">
                         <li>
-                            <i class="bx bx-check"></i>Admissions will commence from July 1, 2023 and will remain open for each academic year.
+                            <i class="bx bx-check"></i>{{ __('messages.point_1') }}
                         </li>
                         <li>
-                            <i class="bx bx-check"></i>Applicant students must fill and submit an admission form on the official website.
+                            <i class="bx bx-check"></i>{{ __('messages.point_2') }}
                         </li>
                         <li>
-                            <i class="bx bx-check"></i>Hostel admissions will be limited to the "daughters" of police officers (from constables to inspector rank).
+                            <i class="bx bx-check"></i>{{ __('messages.point_3') }}
 
                         </li>
                         <li>
-                            <i class="bx bx-check"></i>The applicant's age should be 18 years or above and below 26 years, as on January 1, 2023.
+                            <i class="bx bx-check"></i>{{ __('messages.point_4') }}
                         </li>
                         <li>
-                            <i class="bx bx-check"></i>Admission will be valid for a period of one year, and applicants will need to reapply and renew their admission before July 1 for each subsequent year.
+                            <i class="bx bx-check"></i>{{ __('messages.point_5') }}
                         </li>
                         <li>
-                            <i class="bx bx-check"></i>An applicant can only be granted admission for a maximum of four years, either continuously or in separate periods not exceeding four years.
+                            <i class="bx bx-check"></i>{{ __('messages.point_6') }}
                         </li>
                         <li>
-                            <i class="bx bx-check"></i>Any applicant exceeding the four-year limit will not be eligible for the hostel admission.
+                            <i class="bx bx-check"></i>{{ __('messages.point_7') }}
                         </li>
                         <li>
-                            <i class="bx bx-check"></i>During the hostel admission process, an applicant must provide details of the educational institution/coaching center, along with information about the respective education/coaching program. Additionally, attach proof of admission to the educational institution/coaching center.
+                            <i class="bx bx-check"></i>{{ __('messages.point_8') }}
                         </li>
                         <li>
-                            <i class="bx bx-check"></i>Allocation of rooms will be based on a first-come, first-served basis, and any form of recommendation will be render the candidate.
+                            <i class="bx bx-check"></i>{{ __('messages.point_9') }}
                         </li>
                         <li>
-                            <i class="bx bx-check"></i>In the case of two equally eligible candidates, the Girls residing in bhopal city, will not be eligible for admission in Bhopal Hostel, likewise Girls residing in Indore city will not be eligible for admission in Indore Hostel; as also Girls residing in Gwalior city will not be eligible for admission in Gwalior Hostel.
-                        </li>
+                            <i class="bx bx-check"></i>{{ __('messages.point_10') }}
                     </ul>
                 </div>
             </div>

@@ -6,10 +6,10 @@
     <section class="breadcrumbs">
         <div class="container">
             <div class="d-flex justify-content-between align-items-center">
-                <h2>Photo Gallery</h2>
+                <h2>{{ __('messages.photo_gallery') }}</h2>
                 <ol>
-                    <li><a href="index.html">Home</a></li>
-                    <li>Photo Gallery</li>
+                    <li><a href="index.html">{{ __('messages.home') }}</a></li>
+                    <li>{{ __('messages.photo_gallery') }}</li>
                 </ol>
             </div>
         </div>
@@ -20,17 +20,16 @@
         <div class="container" data-aos="fade-up">
 
             <div class="section-title">
-                <h2>Gallery</h2>
-                <h3>Explore <span>Photographs</span></h3>
+            {!! __('messages.gallery_page') !!}
             </div>
 
             <div class="row" data-aos="fade-up" data-aos-delay="100">
                 <div class="col-lg-12 d-flex justify-content-center">
                     <ul id="portfolio-flters">
-                        <li data-filter="*" class="filter-active">All</li>
-                        <li data-filter=".filter-bhopal">Bhopal</li>
-                        <li data-filter=".filter-indore">Indore</li>
-                        <li data-filter=".filter-gwalior">Gwalior</li>
+                        <li data-filter="*" class="filter-active">{{ __('messages.all') }}</li>
+                        <li data-filter=".filter-bhopal">{{ __('messages.bhopal') }}</li>
+                        <li data-filter=".filter-indore">{{ __('messages.indore') }}</li>
+                        <li data-filter=".filter-gwalior">{{ __('messages.gwalior') }}</li>
                     </ul>
                 </div>
             </div>

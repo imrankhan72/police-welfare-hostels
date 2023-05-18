@@ -6,10 +6,10 @@
     <section class="breadcrumbs">
         <div class="container">
             <div class="d-flex justify-content-between align-items-center">
-                <h2>Rules & Regulations</h2>
+                <h2>{{ __('messages.rules-regulations') }} </h2>
                 <ol>
-                    <li><a href="#">Admission</a></li>
-                    <li>Rules & Regulations</li>
+                    <li><a href="#">{{ __('messages.admission') }}</a></li>
+                    <li>{{ __('messages.rules-regulations') }}</li>
                 </ol>
             </div>
         </div>
@@ -22,86 +22,83 @@
                 <div class="col-lg-12 pt-4 pt-lg-0 content d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="100">
                     <ul class="text-justify">
                         <li>
-                            <i class="bx bx-check"></i>Students must reside in the designated dormitories and cannot shift the rooms at their own will.
+                            <i class="bx bx-check"></i>{{ __('messages.point_1') }}
                         </li>
                         <li>
-                            <i class="bx bx-check"></i><strike>Student Committees along with the Committee, Sanitation Committee, Discipline Committee, Procurement Committee, and Management Committee will be established to work for the welfare of the students.</strike>
+                            <i class="bx bx-check"></i><strike>{{ __('messages.point_2') }}</strike>
                         </li>
                         <li>
-                            <i class="bx bx-check"></i>Since all residents will be above 18 years of age, they should not expect to be treated as dependents by their parents or the administration and should take responsibility for their personal lives.
+                            <i class="bx bx-check"></i>{{ __('messages.point_3') }}
                         </li>
                         <li>
-                            <i class="bx bx-check"></i>Residents must adhere to the prescribed dress code. Maintaining decorum in attire and behavior is essential.
+                            <i class="bx bx-check"></i>{{ __('messages.point_4') }}
                         </li>
                         <li>
-                            <i class="bx bx-check"></i>Smoking, alcohol, and consumption of intoxicating substances in and around the hostel premises are strictly prohibited. In any such cases, immediate eviction from the hostel will be enforced.
+                            <i class="bx bx-check"></i>{{ __('messages.point_5') }}
                         </li>
                         <li>
-                            <i class="bx bx-check"></i>In case of any quarrels or violation of peace, those found guilty through enquiry process will face penalties and eviction.
+                            <i class="bx bx-check"></i>{{ __('messages.point_6') }}
                         </li>
                         <li>
-                            <i class="bx bx-check"></i>The administration and staff will not be responsible for the security of personal belongings.
+                            <i class="bx bx-check"></i>{{ __('messages.point_7') }}
                         </li>
                         <li>
-                            <i class="bx bx-check"></i>Making noise or engaging in activities that may cause physical or psychological harm or pose a threat is strictly prohibited.
+                            <i class="bx bx-check"></i>{{ __('messages.point_8') }}
                         </li>
                         <li>
-                            <i class="bx bx-check"></i>Students are required to keep the premises and rooms clean. Defacing walls, equipment, furniture, etc., is strictly prohibited.
-                            A fine of 200 rupees will be imposed for a dirty room, and a collective penalty of 2000 rupees will be imposed on the wing if the entire gallery/bathroom/toilet area is found dirty. A collective penalty of 3000 rupees will be imposed for an entire floor being dirty.
+                            <i class="bx bx-check"></i>{{ __('messages.point_9') }}
                         </li>
                         <li>
-                            <i class="bx bx-check"></i>A fine of 200 rupees will be imposed for a dirty room, and a collective penalty of 2000 rupees will be imposed on the wing if the entire gallery/bathroom/toilet area is found dirty. A collective penalty of 3000 rupees will be imposed for an entire floor being dirty.
+                            <i class="bx bx-check"></i>{{ __('messages.point_10') }}
                         </li>
                         <li>
-                            <i class="bx bx-check"></i>No student is allowed to use electrical stoves, heaters, irons, or similar appliances in their rooms, except in designated areas for this purpose.
+                            <i class="bx bx-check"></i>{{ __('messages.point_11') }}
                         </li>
                         <li>
-                            <i class="bx bx-check"></i>Meals will only be served in specified dining halls and during designated times.
+                            <i class="bx bx-check"></i>{{ __('messages.point_12') }}
                         </li>
                         <li>
-                            <i class="bx bx-check"></i>All lights in the rooms must be turned off by 11 PM, except for study lamps, which are allowed.
+                            <i class="bx bx-check"></i>{{ __('messages.point_13') }}
                         </li>
                         <li>
-                            <i class="bx bx-check"></i>Visitors/parents can meet students in the visitor's room between 4:30 PM and 6:30 PM. Visitors are not allowed to leave the visiting area.
+                            <i class="bx bx-check"></i>{{ __('messages.point_14') }}
                         </li>
                         <li>
-                            <i class="bx bx-check"></i>External guests/students are not allowed inside the hostel premises.
+                            <i class="bx bx-check"></i>{{ __('messages.point_15') }}
                         </li>
                         <li>
-                            <i class="bx bx-check"></i>Any complaints related to electricity, plumbing, etc. should be recorded in the complaint register.
+                            <i class="bx bx-check"></i>{{ __('messages.point_16') }}
                         </li>
                         <li>
-                            <i class="bx bx-check"></i>Management is not responsible for arranging meetings between students residing inside or outside the hostel premises.
+                            <i class="bx bx-check"></i>{{ __('messages.point_17') }}
                         </li>
                         <li>
-                            <i class="bx bx-check"></i>Students are responsible for their transportation to college, coaching institutes, or other places.
+                            <i class="bx bx-check"></i>{{ __('messages.point_18') }}
+                        <li>
+                            <i class="bx bx-check"></i>{{ __('messages.point_19') }}
                         </li>
                         <li>
-                            <i class="bx bx-check"></i>They are required to get their own newspapers.
+                            <i class="bx bx-check"></i><strike>{{ __('messages.point_20') }} </strike>
                         </li>
                         <li>
-                            <i class="bx bx-check"></i><strike>In case of illness, students must arrange for their own treatment. In extreme circumstances, the management will make an effort to provide the nearest and best available facilities. </strike>
+                            <i class="bx bx-check"></i>{{ __('messages.point_21') }}
                         </li>
                         <li>
-                            <i class="bx bx-check"></i>If parents want to take their daughter home during vacation days, they need to obtain written permission from the warden.
+                            <i class="bx bx-check"></i>{{ __('messages.point_22') }}
                         </li>
                         <li>
-                            <i class="bx bx-check"></i>If any candidate wants to vacate the hostel, they must give a one-month notice in writing.
+                            <i class="bx bx-check"></i>{{ __('messages.point_23') }}
                         </li>
                         <li>
-                            <i class="bx bx-check"></i>Before giving any information or interview in the press, radio, television, social media, or any other media, or or before delivering any speech related to the hostel or any information associated with the hostel, it is required to get prior written permission from the warden.
+                            <i class="bx bx-check"></i>{{ __('messages.point_24') }}
                         </li>
                         <li>
-                            <i class="bx bx-check"></i>If any candidate stays outside the hostel for even a day without providing written notice to the hostel administration, that candidate will be expelled from the hostel.
+                            <i class="bx bx-check"></i>{{ __('messages.point_25') }}
                         </li>
                         <li>
-                            <i class="bx bx-check"></i>The candidates shall not be involved in any political or communal activities that are detrimental to law and order, nor shall they engage in any propaganda related to these activities.
-                        </li>
+                            <i class="bx bx-check"></i>{{ __('messages.point_26') }}
                         <li>
-                            <i class="bx bx-check"></i>Candidate shall bring their own bedding, necessary clothes (warm and regular), and blankets, etc. The materials provided by the hostel cannot be taken out of the rooms. If any material goes missing or gets damaged, the respective student(s) will have to compensate for it at the end of the session.
-                        </li>
-                        <li>
-                            <i class="bx bx-check"></i>It is mandatory to adhere to all the rules of the hostel.
+                            <i class="bx bx-check"></i>{{ __('messages.point_27') }}
                         </li>
                     </ul>
                 </div>
