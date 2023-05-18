@@ -7,10 +7,10 @@
         <section class="breadcrumbs">
             <div class="container">
                 <div class="d-flex justify-content-between align-items-center">
-                    <h2>Hostels</h2>
+                    <h2>{{ __('messages.hostels') }}</h2>
                     <ol>
-                        <li><a href="#">Admission</a></li>
-                        <li>Hostels</li>
+                        <li><a href="#">{{ __('messages.admission') }}</a></li>
+                        <li>{{ __('messages.hostels') }}</li>
                     </ol>
                 </div>
             </div>
@@ -27,30 +27,30 @@
                     <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
                         <div class="icon-box">
                             <div class="icon"><img src="assets/img/bhopal.jpg" class="img-fluid" alt=""></div>
-                            <h4><a href="">Bhopal</a></h4>
+                            <h4><a href="">{{ __('messages.bhopal') }}</a></h4>
                             <p>208 Seats</p>
                             <div class="btn-wrap pricing pt-3">
-                                <a href="apply.html" class="btn-buy">Apply Now</a>
+                                <a href="apply.html" class="btn-buy">{{ __('messages.apply_now') }}</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
                         <div class="icon-box">
                             <div class="icon"><img src="assets/img/indore.jpg" class="img-fluid" alt=""></div>
-                            <h4><a href="">Indore</a></h4>
+                            <h4><a href="">{{ __('messages.indore') }}</a></h4>
                             <p>162 Seats</p>
                             <div class="btn-wrap pricing pt-3">
-                                <a href="apply.html" class="btn-buy">Apply Now</a>
+                                <a href="apply.html" class="btn-buy">{{ __('messages.apply_now') }}</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
                         <div class="icon-box">
                             <div class="icon"><img src="assets/img/gwalior.jpg" class="img-fluid" alt=""></div>
-                            <h4><a href="">Gwalior</a></h4>
+                            <h4><a href="">{{ __('messages.gwalior') }}</a></h4>
                             <p>148 Seats</p>
                             <div class="btn-wrap pricing pt-3">
-                                <a href="apply.html" class="btn-buy">Apply Now</a>
+                                <a href="apply.html" class="btn-buy">{{ __('messages.apply_now') }}</a>
                             </div>
                         </div>
                     </div>
