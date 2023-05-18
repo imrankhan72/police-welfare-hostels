@@ -100,6 +100,12 @@
                         <li>
                             <i class="bx bx-check"></i>{{ __('messages.point_27') }}
                         </li>
+                        <li>
+                            <i class="bx bx-check"></i>{{ __('messages.point_28') }}
+                        </li>
+                        <li>
+                            <i class="bx bx-check"></i>{{ __('messages.point_29') }}
+                        </li>
                     </ul>
                 </div>
             </div>
