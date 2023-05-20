@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\ApplicantController;
+use App\Http\Controllers\PageController;
 use App\Http\Controllers\ProfileController;
 use App\Models\Applicant;
 use Illuminate\Http\Request;
@@ -72,6 +73,8 @@ return redirect('apply-now')->with('success','Application submitted successfully
 })->name('applicants-store');
 
 
+
+
 //Admin Routes
 
 Route::middleware('auth')->prefix('/admin')->group(function () {
@@ -82,6 +85,7 @@ Route::middleware('auth')->prefix('/admin')->group(function () {
     })->name('dashboard');
 
     Route::resource('applicants', ApplicantController::class);
+    Route::resource('pages', PageController::class);
 
     Route::get('/profile', [ProfileController::class, 'edit'])->name('profile.edit');
     Route::patch('/profile', [ProfileController::class, 'update'])->name('profile.update');

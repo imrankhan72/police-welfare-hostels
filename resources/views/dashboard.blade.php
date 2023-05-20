@@ -39,13 +39,13 @@
                                             <path stroke-linecap="round" stroke-linejoin="round" d="M21.75 9v.906a2.25 2.25 0 01-1.183 1.981l-6.478 3.488M2.25 9v.906a2.25 2.25 0 001.183 1.981l6.478 3.488m8.839 2.51l-4.66-2.51m0 0l-1.023-.55a2.25 2.25 0 00-2.134 0l-1.022.55m0 0l-4.661 2.51m16.5 1.615a2.25 2.25 0 01-2.25 2.25h-15a2.25 2.25 0 01-2.25-2.25V8.844a2.25 2.25 0 011.183-1.98l7.5-4.04a2.25 2.25 0 012.134 0l7.5 4.04a2.25 2.25 0 011.183 1.98V19.5z" />
                                         </svg>
                                     </div>
-                                    <p class="ml-16 truncate text-sm font-medium text-gray-500">Total Semesters</p>
+                                    <p class="ml-16 truncate text-sm font-medium text-gray-500">Total Pages</p>
                                 </dt>
                                 <dd class="ml-16 flex items-baseline pb-6 sm:pb-7">
-                                    <p class="text-2xl font-semibold text-gray-900">456</p>
+{{--                                    <p class="text-2xl font-semibold text-gray-900">{{$pages->count()}}</p>--}}
                                     <div class="absolute inset-x-0 bottom-0 bg-gray-50 px-4 py-4 sm:px-6">
                                         <div class="text-sm">
-                                            <a href="#" class="font-medium text-indigo-600 hover:text-indigo-500"> View all<span class="sr-only"> Total Semesters</span></a>
+                                            <a href="/admin/pages" class="font-medium text-indigo-600 hover:text-indigo-500"> View all<span class="sr-only"> Total Pages</span></a>
                                         </div>
                                     </div>
                                 </dd>
@@ -59,13 +59,13 @@
                                             <path stroke-linecap="round" stroke-linejoin="round" d="M15.042 21.672L13.684 16.6m0 0l-2.51 2.225.569-9.47 5.227 7.917-3.286-.672zM12 2.25V4.5m5.834.166l-1.591 1.591M20.25 10.5H18M7.757 14.743l-1.59 1.59M6 10.5H3.75m4.007-4.243l-1.59-1.59" />
                                         </svg>
                                     </div>
-                                    <p class="ml-16 truncate text-sm font-medium text-gray-500">Total Payments</p>
+                                    <p class="ml-16 truncate text-sm font-medium text-gray-500">Total Photos</p>
                                 </dt>
                                 <dd class="ml-16 flex items-baseline pb-6 sm:pb-7">
                                     <p class="text-2xl font-semibold text-gray-900">678</p>
                                     <div class="absolute inset-x-0 bottom-0 bg-gray-50 px-4 py-4 sm:px-6">
                                         <div class="text-sm">
-                                            <a href="#" class="font-medium text-indigo-600 hover:text-indigo-500"> View all<span class="sr-only"> Total Payments</span></a>
+                                            <a href="#" class="font-medium text-indigo-600 hover:text-indigo-500"> View all<span class="sr-only"> Total Photos</span></a>
                                         </div>
                                     </div>
                                 </dd>
@@ -91,7 +91,7 @@
                             Applied for
                         </th>
                         <th scope="col" class="px-6 py-3">
-                            PriceDate
+                            location
                         </th>
                         <th scope="col" class="px-6 py-3">
                             Action
@@ -113,7 +113,7 @@
                             <td class="px-6 py-4">
                                 {{$applicant->created_at}}
                             </td>
-                            <td class="px-6 py-4">
+                            <td class=1"px-6 py-4">
                                 <a href="{{route('applicants.show',$applicant)}}" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Details</a>
                             </td>
                         </tr>
