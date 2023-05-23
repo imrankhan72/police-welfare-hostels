@@ -82,8 +82,8 @@ return [
 "point_16"=>"They are required to get their own newspapers.  ",
 "point_17"=>"Any vacant duration during occupancy will be charged. ",
 "point_18"=>"If any candidate stays outside the hostel for even a day without providing written notice to the hostel administration, that candidate will be expelled from the hostel. ",
-"point_19"=>"Candidate shall bring their own bedding, necessary clothes (warm and regular), and blankets, etc. The materials provided by the hostel cannot be taken out of the rooms. If any material goes missing or gets damaged, the respective student(s) will have to compensate for it at the end of the session. ",
-"point_20"=>"Candidate shall bring their own bedding, necessary clothes (warm and regular), and blankets, etc. The materials provided by the hostel cannot be taken out of the rooms. If any material goes missing or gets damaged, the respective student(s) will have to compensate for it at the end of the session. ",
+
+
 
 
 //Photo Gallery
