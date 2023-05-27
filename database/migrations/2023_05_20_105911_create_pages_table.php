@@ -17,7 +17,7 @@ return new class extends Migration
             $table->string('content');
             $table->smallInteger('status')->default(1);
             $table->string('photo_url');
-            $table->integer('parent');
+            $table->string('parent');
             $table->timestamps();
         });
     }

@@ -3,6 +3,7 @@
         <h2 class="font-semibold text-xl text-gray-800 dark:text-gray-200 leading-tight">
             {{ __('Pages') }}
         </h2>
+
     </x-slot>
 
     <div class="py-12">
@@ -14,6 +15,10 @@
 
                             <div class="relative overflow-x-auto shadow-md sm:rounded-lg">
                                 <table class="w-full text-sm text-left text-gray-500 dark:text-gray-400">
+
+                                    <a href="/admin/pages/create">
+                                    <button type="link"  class="mb-4 rounded-md bg-indigo-600 px-3 py-2 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Add Page</button>
+                                    </a>
                                     <thead class="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
                                     <tr>
                                         <th scope="col" class="px-6 py-3">
@@ -49,7 +54,7 @@
                                                 {{$page->photo_url}}
                                             </td>
                                             <td class="px-6 py-4">
-                                                <a href="{{route('pages.show',$pages)}}" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Details</a>
+                                                <a href="{{route('pages.show',$page)}}" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Details</a>
                                             </td>
                                         </tr>
                                     @endforeach

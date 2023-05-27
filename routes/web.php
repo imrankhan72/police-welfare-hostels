@@ -4,6 +4,7 @@ use App\Http\Controllers\ApplicantController;
 use App\Http\Controllers\PageController;
 use App\Http\Controllers\ProfileController;
 use App\Models\Applicant;
+use App\Models\Page;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\App;
 use Illuminate\Support\Facades\Route;
@@ -71,7 +72,6 @@ $applicant->college_id_card_file_url = '7777';
 $applicant->save();
 return redirect('apply-now')->with('success','Application submitted successfully');
 })->name('applicants-store');
-
 
 
 
