@@ -25,9 +25,9 @@ class PageController extends Controller
     }
 
 
-    public function store(Request $request): string
-
+    public function store(Request $request)
     {
+      //  return $request->all();
         $rules = [
             'parent' => 'required',
             'title' => 'required',
@@ -43,24 +43,16 @@ class PageController extends Controller
         $page->title = $validatedData['title'];
         $page->content = $validatedData['content'];
         $page->photo_url = $validatedData['photo_url'];
-
         $page->status = $validatedData['status'];
-
-        if ($request->hasFile('image')) {
-            $file = $request->file('image');
+        if ($request->hasFile('photo_url')) {
+            $file = $request->file('photo_url');
             // Specify the storage location and optional filename
             $path = $file->store('images', 'public');
-             $page->photo_url= $file->getClientOriginalName();
-
+             $page->photo_url= $file->hashName();
         }
-
-
         $page->save();
 
         return redirect('/admin/pages')->with('success', 'Page created successfully');
-
-
-
     }
 
 
