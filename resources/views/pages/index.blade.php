@@ -51,7 +51,7 @@
                                                 {{$page->status}}
                                             </td>
                                             <td class="px-6 py-4">
-                                                {{$page->photo_url}}
+                                                <img src="/images/{{$page->photo_url}}">
                                             </td>
                                             <td class="px-6 py-4">
                                                 <a href="{{route('pages.show',$page)}}" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Details</a>
