@@ -81,11 +81,15 @@ Route::middleware('auth')->prefix('/admin')->group(function () {
 
     Route::get('/dashboard', function () {
         $applicants = Applicant::all();
-        return view('dashboard', compact('applicants'));
+        $pages = Page::all();
+
+        return view('dashboard', compact('applicants','pages'));
     })->name('dashboard');
 
     Route::resource('applicants', ApplicantController::class);
     Route::resource('pages', PageController::class);
+
+
 
     Route::get('/profile', [ProfileController::class, 'edit'])->name('profile.edit');
     Route::patch('/profile', [ProfileController::class, 'update'])->name('profile.update');

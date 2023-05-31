@@ -8,6 +8,7 @@ use Illuminate\Support\Facades\App;
 use Illuminate\Support\Facades\Session;
 use Symfony\Component\HttpFoundation\Response;
 
+
 class LanguageSwitcher
 {
     public function handle(Request $request, Closure $next): Response

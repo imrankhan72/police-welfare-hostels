@@ -77,8 +77,17 @@ class PageController extends Controller
     }
 
 
-    public function destroy(Page $page)
+    public function destroy( Page $id ): RedirectResponse
+
     {
-        //
+        return "hiiii";
+
+        $page = Page::String($id);
+        $page->delete();
+
+
+        return redirect()->route('pages.index')->with('success', 'page deleted successfully.');
     }
+
+
 }

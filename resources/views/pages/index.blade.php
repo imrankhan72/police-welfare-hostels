@@ -36,6 +36,7 @@
                                         <th scope="col" class="px-6 py-3">
                                             Action
                                         </th>
+
                                     </tr>
                                     </thead>
                                     <tbody>
@@ -51,10 +52,22 @@
                                                 {{$page->status}}
                                             </td>
                                             <td class="px-6 py-4">
-                                                <img src="/images/{{$page->photo_url}}">
+                                                <img src="/storage/images/{{$page->photo_url}}">
                                             </td>
                                             <td class="px-6 py-4">
                                                 <a href="{{route('pages.show',$page)}}" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Details</a>
+                                            </td>
+                                            <td>
+                                                <form action="{{route('pages.destroy',$page->id)}}" method="post" class="font-medium text-blue-600 dark:text-blue-500">
+                                                    <button type="submit"  class="mb-4 rounded-md bg-indigo-600 px-3 py-2 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Delete</button>
+                                                    @csrf
+                                                    @method('DELETE')
+                                                </form>
+                                                @if (session('success'))
+                                                    <div class="alert alert-success">
+                                                        {{ session('success') }}
+                                                    </div>
+                                                @endif
                                             </td>
                                         </tr>
                                     @endforeach
