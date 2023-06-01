@@ -80,6 +80,7 @@
                         </li>
                         <li>
                             <i class="bx bx-check"></i>{{ __('messages.point_18') }}
+                        </li>    
                     </ul>
                 </div>
             </div>
