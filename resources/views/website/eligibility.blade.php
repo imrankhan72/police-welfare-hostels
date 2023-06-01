@@ -26,61 +26,36 @@
                     <ul class="text-justify">
                         
                         <li>
-                            <i class="bx bx-check"></i>{{ __('messages.point_1') }}
+                            <i class="bx bx-check"></i>{{ __('messages.eg_point_1') }}
                         </li>
                         <li>
-                            <i class="bx bx-check"></i>{{ __('messages.point_2') }}
+                            <i class="bx bx-check"></i>{{ __('messages.eg_point_2') }}
                         </li>
                         <li>
-                            <i class="bx bx-check"></i>{{ __('messages.point_3') }}
+                            <i class="bx bx-check"></i>{{ __('messages.eg_point_3') }}
                         </li>
                         <li>
-                            <i class="bx bx-check"></i>{{ __('messages.point_4') }}
+                            <i class="bx bx-check"></i>{{ __('messages.eg_point_4') }}
                         </li>
                         <li>
-                            <i class="bx bx-check"></i>{{ __('messages.point_5') }}
+                            <i class="bx bx-check"></i>{{ __('messages.eg_point_5') }}
                         </li>
                         <li>
-                            <i class="bx bx-check"></i>{{ __('messages.point_6') }}
+                            <i class="bx bx-check"></i>{{ __('messages.eg_point_6') }}
                         </li>
                         <li>
-                            <i class="bx bx-check"></i>{{ __('messages.point_7') }}
+                            <i class="bx bx-check"></i>{{ __('messages.eg_point_7') }}
                         </li>
                         <li>
-                            <i class="bx bx-check"></i>{{ __('messages.point_8') }}
+                            <i class="bx bx-check"></i>{{ __('messages.eg_point_8') }}
                         </li>
 
                         <li>
-                            <i class="bx bx-check"></i>{{ __('messages.point_9') }}
+                            <i class="bx bx-check"></i>{{ __('messages.eg_point_9') }}
                         </li>
                         <li>
-                            <i class="bx bx-check"></i>{{ __('messages.point_10') }}
-                        </li>
-                        <li>
-                            <i class="bx bx-check"></i>{{ __('messages.point_11') }}
-
-                        </li>
-                        <li>
-                            <i class="bx bx-check"></i>{{ __('messages.point_12') }}
-                        </li>
-                        <li>
-                            <i class="bx bx-check"></i>{{ __('messages.point_13') }}
-                        </li>
-                        <li>
-                            <i class="bx bx-check"></i>{{ __('messages.point_14') }}
-                        </li>
-                        <li>
-                            <i class="bx bx-check"></i>{{ __('messages.point_15') }}
-                        </li>
-                        <li>
-                            <i class="bx bx-check"></i>{{ __('messages.point_16') }}
-                        </li>
-                        <li>
-                            <i class="bx bx-check"></i>{{ __('messages.point_17') }}
-                        </li>
-                        <li>
-                            <i class="bx bx-check"></i>{{ __('messages.point_18') }}
-                        </li>    
+                            <i class="bx bx-check"></i>{{ __('messages.eg_point_10') }}
+                        </li>  
                     </ul>
                 </div>
             </div>
