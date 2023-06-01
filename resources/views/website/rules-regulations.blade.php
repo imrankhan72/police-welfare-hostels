@@ -74,7 +74,7 @@
                         </li>
                         <li>
                             <i class="bx bx-check"></i>{{ __('messages.point_18') }}
-                        <li>
+                 {{--       <li>
                             <i class="bx bx-check"></i>{{ __('messages.point_19') }}
                         </li>
                         <li>
@@ -105,7 +105,7 @@
                         </li>
                         <li>
                             <i class="bx bx-check"></i>{{ __('messages.point_29') }}
-                        </li>
+                        </li> --}}
                     </ul>
                 </div>
             </div>
