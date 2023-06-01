@@ -24,9 +24,9 @@
                         <li>
                             <i class="bx bx-check"></i>{{ __('messages.point_1') }}
                         </li>
-                        <li>
+                   {{--     <li>
                             <i class="bx bx-check"></i><strike>{{ __('messages.point_2') }}</strike>
-                        </li>
+                        </li> --}}
                         <li>
                             <i class="bx bx-check"></i>{{ __('messages.point_3') }}
                         </li>
