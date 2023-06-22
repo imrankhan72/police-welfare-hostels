@@ -47,16 +47,15 @@ return [
 
 //facilities Page
 "facilities_page"=>"<h3>Provided Facilities </h3>
-                    <p>Madhya Pradesh Police Department providing facilities for accommodation are following </p>",
-"facility_1"=> "Bed, Almirah & a Study Table",
-"facility_2"=> "Hot Water",
-"facility_3"=> "Computer in the common room",
-"facility_4"=> "Security guards and CCTV cameras",
-"facility_5"=> "Television for entertainment in the common room",
-"facility_6"=> "R.O. water purifier",
-"facility_7"=> "Canteen for snacks and meals (As per requirement)",
-"facility_8"=> "Visitor's room for meeting family members",
-"facility_9"=> "Link to reliable tiffin services",
+                    <p>Accommodation Amenities Offered </p>",
+"facility_1"=> "Bed, wardrobe, and study table.",
+"facility_2"=> "Hot water supply.",
+"facility_3"=> "Computer available in common room.",
+"facility_4"=> "Security guards and CCTV cameras for enhanced safety.",
+"facility_5"=> "Television for entertainment in the common room.",
+"facility_6"=> "R.O. water purifier for clean drinking water.",
+"facility_7"=> "Canteen offering snacks and meals as per requirements.",
+"facility_8"=> "Visitor's room for meeting family members.",
 
 //eligibility page
 
