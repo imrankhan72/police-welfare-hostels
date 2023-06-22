@@ -74,6 +74,7 @@ return [
 
 //rules-regulations
 "rules-regulation_page"=>"<h3>Rules & Regulations</h3>",
+"rules_title"=>"<h3>Rules & Regulations</h3>",
 "point_1"=>"The girl students have to stay in the assigned bedroom and they cannot change the room at their own will.",
 "point_2"=>"The hostel has to follow the prescribed dress code, it is necessary to maintain decorum in dress and behaviour.",
 "point_3"=>"Smoking, alcohol, and consumption of intoxicating substances within the hostel premises are strictly prohibited. Any violation will result in immediate eviction.",
