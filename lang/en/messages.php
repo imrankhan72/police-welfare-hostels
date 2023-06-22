@@ -149,7 +149,7 @@ return [
                     <p><b>Email-</b> indorepolicehostel@gmail.com</p>
                     <p><b>Phone-</b> Constable Mr. Rajkumar (+91-9926592778)</p>",
 "gwalior_address"=>"<h3>Gwalior</h3>
-                    <p><b>Address-</b> Police Welfare Hostel, Aamkho Pahadiya, Near Water Tank, Lashkar, Gwalio</p>
+                    <p><b>Address-</b> Police Welfare Hostel, Aamkho Pahadiya, Near Water Tank, Lashkar, Gwalior</p>
                     <p><b>Email-</b> -</p>
                     <p><b>Phone-</b> Subedaar Smrati Dohare (+91-7587612987)</p>",
 
