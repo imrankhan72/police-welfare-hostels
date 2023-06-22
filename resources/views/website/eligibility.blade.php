@@ -56,6 +56,9 @@
                         <li>
                             <i class="bx bx-check"></i>{{ __('messages.eg_point_10') }}
                         </li>  
+                        <li>
+                            <i class="bx bx-check"></i>{{ __('messages.eg_point_11') }}
+                        </li> 
                     </ul>
                 </div>
             </div>
