@@ -134,12 +134,12 @@ return [
                     <p>If you have any queries, Please feel free to contact us on working hours.</p>",
 
 "headquarter_address"=>"<h3>Headquarter Address</h3>
-                        <p>Police Welfare Hostels, PHQ, Jail Road, Bhopal</p>",
+                        <p>Police Welfare Hostels, Police Headquarter, Jahangirabad, Bhopal</p>",
 
 "headquarter_email"=>"<h3>Headquarter Email</h3>
-                        <p>contact@example.com</p>",
+                        <p>-</p>",
 "headquarter_phone"=>"<h3>Headquarter Phone</h3>
-                        <p>+91 5589 55488 55</p>",
+                        <p>-</p>",
 "bhopal_address"=>"<h3>Bhopal</h3>
                     <p><b>Address-</b> Police Welfare Hostel, Behind Govindpura Police Station, Bhopal - 462023</p>
                     <p><b>Email-</b> -</p>
