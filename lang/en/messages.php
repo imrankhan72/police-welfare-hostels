@@ -61,16 +61,17 @@ return [
 //eligibility page
 
 "eligibility_page"=>"<h3>Eligibility for Hostel Admission</h3>",
-"eg_point_1"=>"Hostel admissions will be limited to the 'daughters' of Police Personnel (from Constables to Inspector rank).",
-"eg_point_2"=>"The applicant's age should be 18 years or above and below 26 years, as on January of the admission year.",
-"eg_point_3"=>"For short term stays, minimum rent of 15 days will be charged.",
-"eg_point_4"=>"Admission will be valid for a period of one year, and applicants will need to reapply and renew their admission before July 1 for each subsequent year. ",
-"eg_point_5"=>"An applicant can only be granted admission for a maximum of four years, either continuously or in separate periods not exceeding four years.",
-"eg_point_6"=>"Any applicant exceeding the four-year limit will not be eligible for the hostel admission. ",
-"eg_point_7"=>"During the hostel admission process, an applicant must provide details of the educational institution/coaching center, along with information about the respective education/coaching program. Additionally, attach proof of admission to the educational institution/coaching center. ",
-"eg_point_8"=>"Allocation of rooms will be based on a first-come, first-served basis and any form of recommendation will render the candidate ineligible.",
-"eg_point_9"=>"Admissions will commence from July 1, 2023 and will remain open for each academic year. ",
-"eg_point_10"=>"Applicant students must fill and submit an admission form on the official website. ",
+"eg_point_1"=>"Admissions will commence from July 1, 2023, and will remain open for each academic year.",
+"eg_point_2"=>"Applicants must fill out and submit an admission form on the official website.",
+"eg_point_3"=>"Hostel admissions will be limited to the daughters of Police Personnel, ranging from Constables to Inspector rank.",
+"eg_point_4"=>"The applicant's age should be 18 years or above and below 26 years, as of 1st July in the admission year. ",
+"eg_point_5"=>"For short-term stays, a minimum rent of 15 days will be charged.",
+"eg_point_6"=>"Admission will be valid for a period of one year and for every subsequent year a fresh application and renewal will be required before 1st July. The year will be counted from the date of admission. ",
+"eg_point_7"=>"An applicant can only be granted admission for a maximum of four years, either continuously or in separate periods not exceeding four years. ",
+"eg_point_8"=>"Any applicant exceeding the four-year limit will not be eligible for hostel admission.",
+"eg_point_9"=>"During the hostel admission process, an applicant must provide details of the educational institution or coaching center, along with information about the respective education or coaching program. Additionally, proof of admission to the educational institution or coaching center must be attached. ",
+"eg_point_10"=>"Allocation of rooms will be based on a "First-Come, First-Served" basis, and any form of recommendation will render the candidate ineligible.",
+"eg_point_11"=>"In the case of two equally eligible candidates, priority will be given to the applicant who resides outside the city where the hostel is located.",
 
 //rules-regulations
 "point_1"=>"Students must reside in the designated dormitories and cannot shift the rooms at their own will. ",
