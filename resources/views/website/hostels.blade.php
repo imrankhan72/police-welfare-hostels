@@ -27,7 +27,7 @@
                         <div class="icon-box">
                             <div class="icon"><img src="assets/img/bhopal.jpg" class="img-fluid" alt=""></div>
                             <h4><a href="">{{ __('messages.bhopal') }}</a></h4>
-                            <p>208 Seats</p>
+                            <p>208 {{ __('messages.hostel_seats') }}</p>
                             <div class="btn-wrap pricing pt-3">
                                 <a href="apply.html" class="btn-buy">{{ __('messages.apply_now') }}</a>
                             </div>
@@ -37,7 +37,7 @@
                         <div class="icon-box">
                             <div class="icon"><img src="assets/img/indore.jpg" class="img-fluid" alt=""></div>
                             <h4><a href="">{{ __('messages.indore') }}</a></h4>
-                            <p>162 Seats</p>
+                            <p>162 {{ __('messages.hostel_seats') }}</p>
                             <div class="btn-wrap pricing pt-3">
                                 <a href="apply.html" class="btn-buy">{{ __('messages.apply_now') }}</a>
                             </div>
@@ -47,7 +47,7 @@
                         <div class="icon-box">
                             <div class="icon"><img src="assets/img/gwalior.jpg" class="img-fluid" alt=""></div>
                             <h4><a href="">{{ __('messages.gwalior') }}</a></h4>
-                            <p>148 Seats</p>
+                            <p>148 {{ __('messages.hostel_seats') }}</p>
                             <div class="btn-wrap pricing pt-3">
                                 <a href="apply.html" class="btn-buy">{{ __('messages.apply_now') }}</a>
                             </div>
