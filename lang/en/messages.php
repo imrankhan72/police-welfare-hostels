@@ -101,36 +101,36 @@ return [
 //Faq Page
 "faq"=>"Frequently Asked Questions",
 
-"faq_1"=>"From which academic session, the admission to the hostel will be begin? ",
-"faq_list1"=>"Admission to the hostel can be obtained from 1st July. ",
+"faq_1"=>"From which academic session does the admission to the hostel begin? ",
+"faq_list1"=>"The admission to the hostel can be obtained starting from July 1, 2023.",
 
 
 "faq_2"=>"Which ranks of police officers and employees can have their daughters admitted to the hostel? ",
-"faq_list2"=>"Daughters of police officers and employees ranging from Constables to Inspector levels can be admitted to the hostel. ",
+"faq_list2"=>"Daughters of police officers and employees ranging from constables to inspector levels can be admitted to the hostel. ",
 
 
-"faq_3"=>"How many years can one receive education while staying in the hostel? ",
-"faq_list3"=>"The maximum duration of hostel accommodation is limited to maximum 4 years. ",
+"faq_3"=>"How many years can one receive education while staying in the hostel?",
+"faq_list3"=>"The maximum duration of hostel accommodation is limited to a maximum of 4 years. ",
 
 
 "faq_4"=>"After leaving the hostel once, can one re-enter in another academic year? ",
-"faq_list4"=>"Eligibility for re-entry will be determined based on the different academic sessions, but the total duration cannot exceed 4 years. ",
+"faq_list4"=>"Eligibility for re-entry will be determined based on different academic sessions, but the total duration cannot exceed 4 years. ",
 
 
 "faq_5"=>"What is the minimum and maximum age for admission to the hostel? ",
-"faq_list5"=>"For admission to the hostel, the age should be above 18 years, but less than 26 years as of 1st January of admission year.",
+"faq_list5"=>"For admission to the hostel, the age should be above 18 years but less than 26 years as of July 1st of the admission year.",
 
 
 "faq_6"=>"Can family members meet the students while they are staying in the hostel? ",
-"faq_list6"=>"Yes, there will be a visitors' room in the hostel where girls can meet their family members. However, no family member will be allowed beyond the girls' section. ",
+"faq_list6"=>"Yes, there will be a visitors' room in the hostel where girls can meet their family members. However, family members will not be allowed beyond the girls' section. ",
 
 
-"faq_7"=>"What are the rules for leaving the hostel? ",
+"faq_7"=>"What are the rules for leaving the hostel?",
 "faq_list7"=>"A written notice must be given to the hostel administration one month prior to leaving the hostel. ",
 
 
-"faq_8"=>"Can we cook meals in the hostel rooms? ",
-"faq_list8"=>"No, cooking meals in the hostel rooms is not allowed. You can avail of snacks and meals from the canteen. Additionally, you can also order lunch/dinner from outside using tiffin service as per the facility available. ",
+"faq_8"=>"Can students cook meals in the hostel rooms? ",
+"faq_list8"=>"No, cooking meals in the hostel rooms is not allowed. Students can avail themselves of snacks and meals from the canteen. Additionally, they can also order lunch/dinner from outside using Tiffin service, if available. ",
 
 
 //Contact Us
