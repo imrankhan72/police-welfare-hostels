@@ -6,10 +6,10 @@
     <section class="breadcrumbs">
         <div class="container">
             <div class="d-flex justify-content-between align-items-center">
-                <h2>{{ __('messages.about_us') }}</h2>
+                <h2>{{ __('messages.management_committee') }}</h2>
                 <ol>
                     <li><a href="#">{{ __('messages.home') }}</a></li>
-                    <li>{{ __('messages.about_us') }}</li>
+                    <li>{{ __('messages.management_committee') }}</li>
                 </ol>
             </div>
         </div>
