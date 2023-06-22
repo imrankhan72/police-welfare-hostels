@@ -20,7 +20,7 @@
         <div class="container" data-aos="fade-up">
             <div class="row member">
                 <div class="section-title">
-                  <h3>{{ __('messages.eligibility') }} </h3>
+                  <h3>{{ __('messages.rules_title') }} </h3>
               </div>
                 <div class="col-lg-12 pt-4 pt-lg-0 content d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="100">
                     <ul class="text-justify">
