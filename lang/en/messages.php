@@ -74,26 +74,22 @@ return [
 
 //rules-regulations
 "rules-regulation_page"=>"<h3>Rules & Regulations</h3>",
-"point_1"=>"Students must reside in the designated dormitories and cannot shift the rooms at their own will. ",
-"point_2"=>"Residents are responsible for the security of their personal belongings.",
-"point_3"=>"Residents must adhere to the prescribed dress code. Maintaining decorum in attire and behavior is essential. ",
-"point_4"=>"Smoking, alcohol, and consumption of intoxicating substances in and around the hostel premises are strictly prohibited. In any such cases, immediate eviction from the hostel will be enforced. ",
-"point_5"=>"In case of any quarrels or violation of peace, those found guilty through enquiry process will face penalties and eviction. ",
-"point_6"=>"The administration and staff will not be responsible for the security of personal belongings. ",
-"point_7"=>"Making noise or engaging in activities that may cause physical or psychological harm or pose a threat is strictly prohibited. ",
-"point_8"=>"Students are required to keep the premises and rooms clean. Defacing walls, equipment, furniture, etc., is strictly prohibited. ",
-"point_9"=>"No student is allowed to use electrical stoves, heaters, irons, or similar appliances in their rooms, except in designated areas for this purpose. ",
-"point_10"=>"All lights in the rooms must be turned off by 11 PM, except for study lamps, which are allowed. ",
-"point_11"=>"Visitors/parents can meet students in the visitor's room between 4:30 PM and 6:30 PM. Visitors are not allowed to leave the visiting area.  ",
-"point_12"=>"External guests/students are not allowed inside the hostel premises. ",
-"point_13"=>"Any complaints related to electricity, plumbing, etc. should be recorded in the complaint register. ",
-"point_14"=>"Management is not responsible for arranging meetings between students residing inside or outside the hostel premises. ",
-"point_15"=>"Students are responsible for their transportation to college, coaching institutes, or other places. ",
-"point_16"=>"They are required to get their own newspapers.  ",
-"point_17"=>"Any vacant duration during occupancy will be charged. ",
-"point_18"=>"If any candidate stays outside the hostel for even a day without providing written notice to the hostel administration, that candidate will be expelled from the hostel. ",
-
-
+"point_1"=>"The girl students have to stay in the assigned bedroom and they cannot change the room at their own will.",
+"point_2"=>"The hostel has to follow the prescribed dress code, it is necessary to maintain decorum in dress and behaviour.",
+"point_3"=>"Smoking, alcohol, and consumption of intoxicating substances within the hostel premises are strictly prohibited. Any violation will result in immediate eviction.",
+"point_4"=>"Engaging in quarrels or disturbing the peace is strictly prohibited. Those found guilty after due investigation will face penalties and possible eviction. ",
+"point_5"=>"Administration and staff will not be responsible for the safety of personal belongings. ",
+"point_6"=>"Making noise or engaging in activities that may cause physical or psychological harm or pose a threat is strictly prohibited. ",
+"point_7"=>"Students are required to maintain cleanliness in the premises and their rooms. Defacing walls, equipment, furniture, etc., is strictly prohibited.",
+"point_8"=>"No student is allowed to use electrical stoves, heaters, irons, or similar appliances in their rooms, except in designated areas for this purpose. ",
+"point_9"=>"All lights in the rooms have to be switched off by 11 pm, except for study lamps (which are permitted). ",
+"point_10"=>"Visitors/parents can meet students in the visitor's room between 4:30 PM and 6:30 PM. Visitors are not allowed to leave the visiting area.",
+"point_11"=>"Outside guests/students are not allowed inside the hostel premises.  ",
+"point_12"=>"Any complaints related to electricity, plumbing, etc., must be recorded in the complaint register. ",
+"point_13"=>"Hostel management will not be responsible for facilitating meetings between students living inside or outside the hostel premises. ",
+"point_14"=>"Students are responsible for their own transportation to college, coaching institutes, or other destinations. ",
+"point_15"=>"Newspapers can be obtained at own expense. ",
+"point_16"=>"If any student stays out of the hostel even for a day without giving written notice to the hostel administration, she will be expelled from the hostel.  ",
 
 
 //Photo Gallery
