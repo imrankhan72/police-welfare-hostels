@@ -33,7 +33,8 @@ return [
 ",
 "hostel_page" => "
 <h3>Explore our Hostels</h3>
-<p>Madhya Pradesh Police Department will provide accommodation facilities to the daughters of Policemen who wish to stay in cities having better opportunities of higher education.</p>
+<p>Madhya Pradesh Police Department will provide accommodation facilities to the daughters of Policemen who wish to stay in cities having better opportunities of higher education.</p>",
+ "hostel_seats"=> "<p>Seats</p>
 ",
 
 //facilities Page
