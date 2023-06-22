@@ -141,17 +141,17 @@ return [
 "headquarter_phone"=>"<h3>Headquarter Phone</h3>
                         <p>+91 5589 55488 55</p>",
 "bhopal_address"=>"<h3>Bhopal</h3>
-                    <p><b>Address-</b> Police Welfare Hostel, Bhopal</p>
-                    <p><b>Email-</b> contact@example.com</p>
-                    <p><b>Phone-</b> +91-1234567890</p>",
+                    <p><b>Address-</b> Police Welfare Hostel, Behind Govindpura Police Station, Bhopal - 462023</p>
+                    <p><b>Email-</b> -</p>
+                    <p><b>Phone-</b> Subedaar Shivmangal Singh (+91-8109178078)</p>",
 "indore_address"=>"<h3>Indore</h3>
-                    <p><b>Address-</b> Police Welfare Hostel, Indore</p>
-                    <p><b>Email-</b> contact@example.com</p>
-                    <p><b>Phone-</b> +91-1234567890</p>",
+                    <p><b>Address-</b> Police Welfare Hostel,10, Kila Maidan, Police ITI Campus, VIP Road, Indore- 452006</p>
+                    <p><b>Email-</b> indorepolicehostel@gmail.com</p>
+                    <p><b>Phone-</b> Constable Mr. Rajkumar (+91-9926592778)</p>",
 "gwalior_address"=>"<h3>Gwalior</h3>
-                    <p><b>Address-</b> Police Welfare Hostel, Gwalior</p>
-                    <p><b>Email-</b> contact@example.com</p>
-                    <p><b>Phone-</b> +91-1234567890</p>",
+                    <p><b>Address-</b> Police Welfare Hostel, Aamkho Pahadiya, Near Water Tank, Lashkar, Gwalio</p>
+                    <p><b>Email-</b> -</p>
+                    <p><b>Phone-</b> Subedaar Smrati Dohare (+91-7587612987)</p>",
 
 "your_name"=>"Your Name",
 "your_email"=>"Email",
