@@ -69,43 +69,6 @@
                         <li>
                             <i class="bx bx-check"></i>{{ __('messages.point_16') }}
                         </li>
-                        <li>
-                            <i class="bx bx-check"></i>{{ __('messages.point_17') }}
-                        </li>
-                        <li>
-                            <i class="bx bx-check"></i>{{ __('messages.point_18') }}
-                 {{--       <li>
-                            <i class="bx bx-check"></i>{{ __('messages.point_19') }}
-                        </li>
-                        <li>
-                            <i class="bx bx-check"></i><strike>{{ __('messages.point_20') }} </strike>
-                        </li>
-                        <li>
-                            <i class="bx bx-check"></i>{{ __('messages.point_21') }}
-                        </li>
-                        <li>
-                            <i class="bx bx-check"></i>{{ __('messages.point_22') }}
-                        </li>
-                        <li>
-                            <i class="bx bx-check"></i>{{ __('messages.point_23') }}
-                        </li>
-                        <li>
-                            <i class="bx bx-check"></i>{{ __('messages.point_24') }}
-                        </li>
-                        <li>
-                            <i class="bx bx-check"></i>{{ __('messages.point_25') }}
-                        </li>
-                        <li>
-                            <i class="bx bx-check"></i>{{ __('messages.point_26') }}
-                        <li>
-                            <i class="bx bx-check"></i>{{ __('messages.point_27') }}
-                        </li>
-                        <li>
-                            <i class="bx bx-check"></i>{{ __('messages.point_28') }}
-                        </li>
-                        <li>
-                            <i class="bx bx-check"></i>{{ __('messages.point_29') }}
-                        </li> --}}
                     </ul>
                 </div>
             </div>
