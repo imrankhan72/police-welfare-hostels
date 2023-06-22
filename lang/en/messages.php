@@ -38,12 +38,12 @@ return [
  "b_hostel_seats"=> "<p>208 Seats</p>",
  "i_hostel_seats"=> "<p>162 Seats</p>",
  "g_hostel_seats"=> "<p>148 Seats</p>",
- "b_hostel_time"=> "<p>-</p>",
- "i_hostel_time"=> "<p>-</p>",
- "g_hostel_time"=> "<p>-</p>",
- "b_hostel_contact"=> "<p>Subedaar Shivmangal Singh (+91-8109178078)</p>",
- "i_hostel_contact"=> "<p>Constable Rajkumar (+91-9926592778)</p>",
- "g_hostel_contact"=> "<p>Subedaar Smrati Dohare (+91-7587612987)</p>",
+ "b_hostel_time"=> "<p><b>Time-</b>- </p>",
+ "i_hostel_time"=> "<p><b>Time-</b>- </p>",
+ "g_hostel_time"=> "<p><b>Time-</b>- </p>",
+ "b_hostel_contact"=> "<p><b>Contact-</b> Subedaar Shivmangal Singh (+91-8109178078)</p>",
+ "i_hostel_contact"=> "<p><b>Contact-</b> Constable Rajkumar (+91-9926592778)</p>",
+ "g_hostel_contact"=> "<p><b>Contact-</b> Subedaar Smrati Dohare (+91-7587612987)</p>",
 
 //facilities Page
 "facilities_page"=>"<h3>Provided Facilities </h3>
