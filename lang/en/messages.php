@@ -70,7 +70,7 @@ return [
 "eg_point_7"=>"An applicant can only be granted admission for a maximum of four years, either continuously or in separate periods not exceeding four years. ",
 "eg_point_8"=>"Any applicant exceeding the four-year limit will not be eligible for hostel admission.",
 "eg_point_9"=>"During the hostel admission process, an applicant must provide details of the educational institution or coaching center, along with information about the respective education or coaching program. Additionally, proof of admission to the educational institution or coaching center must be attached. ",
-"eg_point_10"=>"Allocation of rooms will be based on a "First-Come, First-Served" basis, and any form of recommendation will render the candidate ineligible.",
+"eg_point_10"=>"Allocation of rooms will be based on a 'First-Come, First-Served' basis, and any form of recommendation will render the candidate ineligible.",
 "eg_point_11"=>"In the case of two equally eligible candidates, priority will be given to the applicant who resides outside the city where the hostel is located.",
 
 //rules-regulations
