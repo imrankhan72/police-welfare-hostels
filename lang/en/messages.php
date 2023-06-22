@@ -25,10 +25,13 @@ return [
     "all"=>"All",
     "contact_us"=>"Contact Us",
     "about_us_page" => "
-                    <p>Madhya Pradesh Police Department will provide Hostel facilities for the daughters of Police personnel who wish to stay in cities having better opportunities of higher education. The Police Welfare Branch, Madhya Pradesh has established three hostels in Bhopal, Indore and in Gwalior for the purpose. The department has named the initiative 'Police Welfare Girls Hostels'. Retired female police personnel to be hired for the post of warden in these hostels. </p>
-                    <p>Under the guidance of DGP Shri Sudhir Kumar Saxena, Girls hostels have been established in Bhopal, Indore, and Gwalior districts. These hostels will ensure convenience to 'daughters' of the Police personnel (from Constables to Inspector rank) in pursuing their career. In Bhopal- 208, in Indore- 162 and Gwalior- 148 Girl student accommodations have been prepared, respectively. These will be managed by the district police force. </p>
-                    <p>A nominal fee will be charged from the inmates for their stay up to a maximum of four years in these hostels. </p>
-                    <p>Police Welfare branch wishes to encourage Police Personnel below the rank of Inspector to send their daughters for higher studies in big cities of Madhya Pradesh. </p>
+                    <p>Madhya Pradesh Police Department is providing hostel facilities to the daughters of police personnel who wish to stay and study in cities to get better opportunities for higher education. To fulfill this objective, under the guidance of DGP Shri Sudhir Kumar Saxena, the Police Welfare Branch of Madhya Pradesh Police has established hostels in Bhopal, Indore, and Gwalior districts. The initiative has been named 'Police Welfare Hostels'. </p>
+                    <p>These hostels offer a convenient stay to the daughters of police personnel (from the rank of constable to inspector) during their educational pursuits and play a crucial role in shaping their careers. Policemen's daughters from any city within the state can avail themselves of hostel accommodation for a maximum duration of four years for higher education.</p>
+                    <p>Bhopal hostel can accommodate 208 girls, Indore hostel can accommodate 162 girls, and Gwalior hostel can accommodate 148 girls.</p>
+                    <p>To ensure smooth functioning, the management of these hostels has been entrusted to the respective district police forces, with retired women police personnel serving as wardens. </p>
+                    <p>A discounted fee will be charged from the girl students during their stay, up to a maximum duration of four years, to ensure the sustainability and maintenance of the hostels.</p>
+                    <p>The purpose of establishing these hostels by the Police Department is to encourage police personnel below the rank of Inspector to send their daughters for higher education.</p>
+                    <p>At Police Welfare Hostels, we strive to create a nurturing environment where the daughters of our police personnel can thrive academically and personally, with the support of our dedicated team.</p>
 
 ",
 //hostel Page    
