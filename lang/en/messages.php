@@ -31,6 +31,7 @@ return [
                     <p>Police Welfare branch wishes to encourage Police Personnel below the rank of Inspector to send their daughters for higher studies in big cities of Madhya Pradesh. </p>
 
 ",
+//hostel Page    
 "hostel_page" => "
 <h3>Explore our Hostels</h3>
 <p>Madhya Pradesh Police Department will provide accommodation facilities to the daughters of Policemen who wish to stay in cities having better opportunities of higher education.</p>",
