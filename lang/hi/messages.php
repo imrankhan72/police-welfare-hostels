@@ -41,12 +41,12 @@ return [
     "b_hostel_seats"=> "<p>208 सीट</p>",
      "i_hostel_seats"=> "<p>162 सीट</p>",
      "g_hostel_seats"=> "<p>148 सीट</p>",
-    "b_hostel_time"=> "<p>-</p>",
-     "i_hostel_time"=> "<p>-</p>",
-     "g_hostel_time"=> "<p>-</p>",
-     "b_hostel_contact"=> "<p>सूबेदार शिवमंगल सिंह (+91-8109178078)</p>",
-     "i_hostel_contact"=> "<p>आरक्षक राजकुमार (+91-9926592778)</p>",
-     "g_hostel_contact"=> "<p>सूबेदार स्मृति दोहरे (+91-7587612987)</p>",
+    "b_hostel_time"=> "<p><b>समय-</b> -</p>",
+     "i_hostel_time"=> "<p><b>समय-</b> -</p>",
+     "g_hostel_time"=> "<p><b>समय-</b> -</p>",
+     "b_hostel_contact"=> "<p><b>संपर्क-</b> सूबेदार शिवमंगल सिंह (+91-8109178078)</p>",
+     "i_hostel_contact"=> "<p><b>संपर्क-</b> आरक्षक राजकुमार (+91-9926592778)</p>",
+     "g_hostel_contact"=> "<p><b>संपर्क-</b> सूबेदार स्मृति दोहरे (+91-7587612987)</p>",
     
 //facilities Page
 "facilities_page"=>"<h3>सुविधायें </h3>
