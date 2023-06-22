@@ -145,7 +145,7 @@ return [
                     <p><b>Email-</b> -</p>
                     <p><b>Phone-</b> Subedaar Shivmangal Singh (+91-8109178078)</p>",
 "indore_address"=>"<h3>Indore</h3>
-                    <p><b>Address-</b> Police Welfare Hostel,10, Kila Maidan, Police ITI Campus, VIP Road, Indore- 452006</p>
+                    <p><b>Address-</b> Police Welfare Hostel, 10, Kila Maidan, Police ITI Campus, VIP Road, Indore- 452006</p>
                     <p><b>Email-</b> indorepolicehostel@gmail.com</p>
                     <p><b>Phone-</b> Constable Mr. Rajkumar (+91-9926592778)</p>",
 "gwalior_address"=>"<h3>Gwalior</h3>
