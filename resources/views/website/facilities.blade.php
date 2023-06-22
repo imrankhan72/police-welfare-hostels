@@ -75,12 +75,6 @@
                                     <h5>{{ __('messages.facility_8') }}</h5>
                                 </div>
                             </li>
-                            <li style="margin-top:0px;">
-                                <i class="facility"><img src="assets/img/tiffin.png" alt=""></i>
-                                <div>
-                                    <h5>{{ __('messages.facility_9') }}</h5>
-                                </div>
-                            </li>
                         </ul>
                     </ul>
                 </div>
