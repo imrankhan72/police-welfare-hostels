@@ -41,9 +41,9 @@ return [
  "b_hostel_time"=> "<p><b>Time-</b>- </p>",
  "i_hostel_time"=> "<p><b>Time-</b>- </p>",
  "g_hostel_time"=> "<p><b>Time-</b>- </p>",
- "b_hostel_contact"=> "<p><b>Contact-</b> Subedaar Shivmangal Singh (+91-8109178078)</p>",
- "i_hostel_contact"=> "<p><b>Contact-</b> Constable Rajkumar (+91-9926592778)</p>",
- "g_hostel_contact"=> "<p><b>Contact-</b> Subedaar Smrati Dohare (+91-7587612987)</p>",
+ "b_hostel_contact"=> "<p><b>Contact-</b> Subedaar Shivmangal Singh <br/> (+91-8109178078)</p>",
+ "i_hostel_contact"=> "<p><b>Contact-</b> Constable Rajkumar <br/> (+91-9926592778)</p>",
+ "g_hostel_contact"=> "<p><b>Contact-</b> Subedaar Smrati Dohare <br/> (+91-7587612987)</p>",
 
 //facilities Page
 "facilities_page"=>"<h3>Provided Facilities </h3>
