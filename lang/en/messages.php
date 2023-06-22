@@ -73,6 +73,7 @@ return [
 "eg_point_11"=>"In the case of two equally eligible candidates, priority will be given to the applicant who resides outside the city where the hostel is located.",
 
 //rules-regulations
+"rules-regulation_page"=>"<h3>Rules & Regulations</h3>",
 "point_1"=>"Students must reside in the designated dormitories and cannot shift the rooms at their own will. ",
 "point_2"=>"Residents are responsible for the security of their personal belongings.",
 "point_3"=>"Residents must adhere to the prescribed dress code. Maintaining decorum in attire and behavior is essential. ",
