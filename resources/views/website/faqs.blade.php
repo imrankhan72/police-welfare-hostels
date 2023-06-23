@@ -9,7 +9,7 @@
             <div class="d-flex justify-content-between align-items-center">
                 <h2>{{ __('messages.faq') }} </h2>
                 <ol>
-                    <li><a href="index.html">{{ __('messages.home') }}</a></li>
+                    <li><a href="#">{{ __('messages.home') }}</a></li>
                     <li>{{ __('messages.faq') }}</li>
                 </ol>
             </div>
