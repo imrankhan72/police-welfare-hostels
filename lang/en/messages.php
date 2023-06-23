@@ -50,7 +50,7 @@ return [
  "g_hostel_contact"=> "<p><b>Contact-</b> Subedaar Smrati Dohare <br/> (+91-7587612987)</p>",
 
 //Management Committee Page  
-"Mgnt-bhopal"=>"<h3>Management Committee- Bhopal </h3>;
+"Mgnt-bhopal"=>"<h3>Management Committee- Bhopal </h3>,
 
 //facilities Page
 "facilities_page"=>"<h3>Provided Facilities </h3>
