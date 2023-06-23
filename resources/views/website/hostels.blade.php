@@ -9,7 +9,7 @@
                 <div class="d-flex justify-content-between align-items-center">
                     <h2>{{ __('messages.hostels') }}</h2>
                     <ol>
-                        <li><a href="#">{{ __('messages.admission') }}</a></li>
+                        <li><a href="{{route('home')}}">{{ __('messages.admission') }}</a></li>
                         <li>{{ __('messages.hostels') }}</li>
                     </ol>
                 </div>
