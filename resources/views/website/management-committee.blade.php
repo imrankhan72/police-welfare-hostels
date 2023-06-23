@@ -75,7 +75,7 @@
         <hr>
 
         <div class="section-title">
-          <h3>प्रबंध समिति <span>- इंदौर</span></h3>
+          <h3>{{ __('messages.mgnt-indore') }}</h3>
         </div>
         <div class="row">
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch aos-init" data-aos="fade-up" data-aos-delay="100">
@@ -131,7 +131,7 @@
         <hr>
 
         <div class="section-title">
-          <h3>प्रबंध समिति<span>- ग्वालियर </span></h3>
+          <h3>{{ __('messages.mgnt-gwalior') }}</h3>
         </div>
         <div class="row">
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch aos-init" data-aos="fade-up" data-aos-delay="100">
