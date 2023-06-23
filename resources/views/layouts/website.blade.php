@@ -62,7 +62,7 @@
                     <ul>
                         <li><a href="{{route('about-us')}}">{{ __('messages.about_us') }}</a></li>
                         <li><a href="{{route('management-committee')}}">{{ __('messages.management_committee') }}</a></li>
-                        <li><a href="{{route('hostels')}}">{{ __('messages.hostels') }}</a></li>
+                        <li><a href="{{route('hostels')}}">{{ __('messages.hostels-menu') }}</a></li>
                     </ul>
                 </li>
                 <li class="dropdown"><a class="nav-link" href="#"><span>{{ __('messages.rules-eligibility') }}</span><i class="bi bi-chevron-down"></i></a>
