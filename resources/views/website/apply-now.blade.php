@@ -34,7 +34,7 @@
                 @endif
             </div>
             <div class="section-title">
-                <h2>Admission</h2>
+                <h2>{{ __('messages.admission') }}</h2>
                 <h3>{{ __('messages.apply-form') }}</h3>
             </div>
 
