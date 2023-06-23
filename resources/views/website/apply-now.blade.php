@@ -8,10 +8,10 @@
 
 
             <div class="d-flex justify-content-between align-items-center">
-                <h2>Apply For Accommodation</h2>
+                <h2>{{ __('messages.apply') }}</h2>
                 <ol>
                     <li><a href="{{route('home')}}">Home</a></li>
-                    <li>Apply For Accommodation</li>
+                    <li>{{ __('messages.apply') }}</li>
                 </ol>
             </div>
         </div>
