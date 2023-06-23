@@ -12,7 +12,7 @@ return [
     'company_name'=>'Solwin Technologies',
     "home" => "Home",
     "about_us" => "About us",
-    "management_committee" => "Management committee",
+    "management_committee" => "Management Committee",
     "admission" => "Admission",
     "rules-eligibility" => "Eligibility & Rules" ,
     "hostels" => "Hostels",
