@@ -62,11 +62,12 @@
                     <ul>
                         <li><a href="{{route('about-us')}}">{{ __('messages.about_us') }}</a></li>
                         <li><a href="{{route('management-committee')}}">{{ __('messages.management_committee') }}</a></li>
+                        <li><a href="{{route('hostels')}}">{{ __('messages.hostels') }}</a></li>
                     </ul>
                 </li>
                 <li class="dropdown"><a class="nav-link" href="#"><span>{{ __('messages.admission') }}</span><i class="bi bi-chevron-down"></i></a>
                     <ul>
-                        <li><a href="{{route('hostels')}}">{{ __('messages.hostels') }}</a></li>
+                        
                         <li><a href="{{route('facilities')}}">{{ __('messages.facilities') }}</a></li>
                         <li><a href="{{route('eligibility')}}">{{ __('messages.eligibility') }}</a></li>
                         <li><a href="{{route('rules-regulations')}}">{{ __('messages.rules-regulations') }}</a></li>
