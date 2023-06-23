@@ -25,6 +25,7 @@ return [
     "seats"=> "Seats",
     "all"=>"All",
     "apply"=>"Apply For Accommodation",
+    "apply-form"=>"Apply For Accommodation",
     "contact_us"=>"Contact Us",
     "about_us_page" => "
                     <p>Madhya Pradesh Police Department is providing hostel facilities to the daughters of police personnel who wish to stay and study in cities to get better opportunities for higher education. To fulfill this objective, under the guidance of DGP Shri Sudhir Kumar Saxena, the Police Welfare Branch of Madhya Pradesh Police has established hostels in Bhopal, Indore, and Gwalior districts. The initiative has been named 'Police Welfare Hostels'. </p>
