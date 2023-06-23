@@ -57,7 +57,7 @@
 
         <nav id="navbar" class="navbar">
             <ul>
-                <li><a class="nav-link active" href="{{route('home')}}">{{ __('messages.home') }}</a></li>
+                <li><a class="nav-link active" href="{{route('home')}}"><img src="assets/img/home.png"></a></li>
                 <li class="dropdown"><a class="nav-link" href="#"><span>{{ __('messages.about_us') }}</span><i class="bi bi-chevron-down"></i></a>
                     <ul>
                         <li><a href="{{route('about-us')}}">{{ __('messages.about_us') }}</a></li>
