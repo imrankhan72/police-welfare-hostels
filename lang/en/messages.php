@@ -14,6 +14,7 @@ return [
     "about_us" => "About us",
     "management_committee" => "Management committee",
     "admission" => "Admission",
+    "rules-eligibility" => "Eligibility & Rules"
     "hostels" => "Hostels",
     "facilities" => "Facilities",
     "eligibility" => "Eligibility",
