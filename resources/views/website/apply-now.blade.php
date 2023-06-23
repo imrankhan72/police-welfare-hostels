@@ -35,7 +35,7 @@
             </div>
             <div class="section-title">
                 <h2>Admission</h2>
-                <h3>Apply For <span>Accommodation</span></h3>
+                <h3>{{ __('messages.apply-form') }}</h3>
             </div>
 
             <div class="row">
