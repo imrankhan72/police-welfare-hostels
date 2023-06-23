@@ -15,7 +15,7 @@ return [
     "management_committee" => "Management committee",
     "admission" => "Admission",
     "rules-eligibility" => "Eligibility & Rules"
-    "hostels-menu" => "Hostels",
+    "hostels" => "Hostels",
     "facilities" => "Facilities",
     "eligibility" => "Eligibility",
     "rules-regulations" => "Rules & Regulations",
