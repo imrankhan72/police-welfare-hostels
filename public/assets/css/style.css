@@ -224,7 +224,7 @@ h6 {
 
 .navbar>ul>li {
   white-space: nowrap;
-  padding: 10px 0 10px 26px;
+  padding: 10px 0 10px 28px;
 }
 
 .navbar a,
@@ -470,7 +470,7 @@ h6 {
 
 #hero:before {
   content: "";
-  background: rgba(255, 255, 255, 0.6);
+  background: rgba(255, 255, 255, 0.4);
   position: absolute;
   bottom: 0;
   top: 0;
@@ -514,7 +514,7 @@ h6 {
   border-radius: 4px;
   transition: 0.5s;
   color: #fff;
-  background: #ae9564;
+  background: #dbab4d;
 }
 
 #hero .btn-get-started:hover {
