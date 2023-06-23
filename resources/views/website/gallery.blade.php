@@ -8,7 +8,7 @@
             <div class="d-flex justify-content-between align-items-center">
                 <h2>{{ __('messages.photo_gallery') }}</h2>
                 <ol>
-                    <li><a href="#">{{ __('messages.home') }}</a></li>
+                    <li><a href="{{route('home')}}">{{ __('messages.home') }}</a></li>
                     <li>{{ __('messages.photo_gallery') }}</li>
                 </ol>
             </div>
