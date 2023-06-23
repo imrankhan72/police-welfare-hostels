@@ -14,6 +14,7 @@ return [
     "about_us" => "हमारे बारे में",
     "management_committee" => "प्रबंध समिति",
     "admission" => "प्रवेश",
+    "rules-eligibility" => "पात्रता एवं नियम",
     "hostels" => "हॉस्टल",
     "facilities" => "सुविधायें",
     "eligibility" => "पात्रता",
