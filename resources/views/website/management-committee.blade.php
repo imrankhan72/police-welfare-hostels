@@ -28,7 +28,7 @@
                 <img src="assets/img/team/team.jpg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-                <h4>{{ __('messages.b-team-name1') }}</h4>
+                <h4>{!! __('messages.b-team-name1') !!}</h4>
                 <span>{{ __('messages.b-team-designation1') }}</span>
                 <span>{{ __('messages.b-team-mobile1') }}</span>
               </div>
