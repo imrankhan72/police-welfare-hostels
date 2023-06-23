@@ -19,7 +19,7 @@
       <div class="container aos-init aos-animate" data-aos="fade-up">
 
         <div class="section-title">
-          <h3>{{ __('messages.mgnt-bhopal') }}</h3>
+          <h3>{!! __('messages.mgnt-bhopal' !!) }</h3>
         </div>
         <div class="row">
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
