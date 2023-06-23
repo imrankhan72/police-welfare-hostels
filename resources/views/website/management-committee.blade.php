@@ -15,19 +15,176 @@
         </div>
     </section><!-- End Breadcrumbs -->
 
-    <!-- ======= About Section ======= -->
-    <section id="about" class="about">
-        <div class="container" data-aos="fade-up">
+    <section id="team" class="team">
+      <div class="container aos-init aos-animate" data-aos="fade-up">
 
-            <div class="section-title">
-                <h3> <span>Management Committee</span></h3>
-            </div>
-
-            <div class="row member">
-               This is Management Committee.
-            </div>
-
+        <div class="section-title">
+          <h3>प्रबंध समिति <span>- भोपाल</span></h3>
         </div>
-    </section><!-- End About Section -->
+        <div class="row">
+          <div class="col-lg-3 col-md-6 d-flex align-items-stretch aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+            <div class="member">
+              <div class="member-img">
+                <img src="assets/img/team/team.jpg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4>नाम- </h4>
+                <span>पद- </span>
+                <span>मोबाइल नं.- </span>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 d-flex align-items-stretch aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+            <div class="member">
+              <div class="member-img">
+                <img src="assets/img/team/team.jpg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4>नाम- </h4>
+                <span>पद- </span>
+                <span>मोबाइल नं.- </span>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 d-flex align-items-stretch aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">
+            <div class="member">
+              <div class="member-img">
+                <img src="assets/img/team/team.jpg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4>नाम- </h4>
+                <span>पद- </span>
+                <span>मोबाइल नं.- </span>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 d-flex align-items-stretch aos-init aos-animate" data-aos="fade-up" data-aos-delay="400">
+            <div class="member">
+              <div class="member-img">
+                <img src="assets/img/team/team.jpg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4>नाम- </h4>
+                <span>पद- </span>
+                <span>मोबाइल नं.- </span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <hr>
+
+        <div class="section-title">
+          <h3>प्रबंध समिति <span>- इंदौर</span></h3>
+        </div>
+        <div class="row">
+          <div class="col-lg-3 col-md-6 d-flex align-items-stretch aos-init" data-aos="fade-up" data-aos-delay="100">
+            <div class="member">
+              <div class="member-img">
+                <img src="assets/img/team/team.jpg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4>नाम- </h4>
+                <span>पद- </span>
+                <span>मोबाइल नं.- </span>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 d-flex align-items-stretch aos-init" data-aos="fade-up" data-aos-delay="200">
+            <div class="member">
+              <div class="member-img">
+                <img src="assets/img/team/team.jpg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4>नाम- </h4>
+                <span>पद- </span>
+                <span>मोबाइल नं.- </span>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 d-flex align-items-stretch aos-init" data-aos="fade-up" data-aos-delay="300">
+            <div class="member">
+              <div class="member-img">
+                <img src="assets/img/team/team.jpg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4>नाम- </h4>
+                <span>पद- </span>
+                <span>मोबाइल नं.- </span>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 d-flex align-items-stretch aos-init" data-aos="fade-up" data-aos-delay="400">
+            <div class="member">
+              <div class="member-img">
+                <img src="assets/img/team/team.jpg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4>नाम- </h4>
+                <span>पद- </span>
+                <span>मोबाइल नं.- </span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <hr>
+
+        <div class="section-title">
+          <h3>प्रबंध समिति<span>- ग्वालियर </span></h3>
+        </div>
+        <div class="row">
+          <div class="col-lg-3 col-md-6 d-flex align-items-stretch aos-init" data-aos="fade-up" data-aos-delay="100">
+            <div class="member">
+              <div class="member-img">
+                <img src="assets/img/team/team.jpg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4>नाम- </h4>
+                <span>पद- </span>
+                <span>मोबाइल नं.- </span>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 d-flex align-items-stretch aos-init" data-aos="fade-up" data-aos-delay="200">
+            <div class="member">
+              <div class="member-img">
+                <img src="assets/img/team/team.jpg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4>नाम- </h4>
+                <span>पद- </span>
+                <span>मोबाइल नं.- </span>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 d-flex align-items-stretch aos-init" data-aos="fade-up" data-aos-delay="300">
+            <div class="member">
+              <div class="member-img">
+                <img src="assets/img/team/team.jpg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4>नाम- </h4>
+                <span>पद- </span>
+                <span>मोबाइल नं.- </span>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 d-flex align-items-stretch aos-init" data-aos="fade-up" data-aos-delay="400">
+            <div class="member">
+              <div class="member-img">
+                <img src="assets/img/team/team.jpg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4>नाम- </h4>
+                <span>पद- </span>
+                <span>मोबाइल नं.- </span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section>
 
 @endsection
