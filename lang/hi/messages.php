@@ -47,6 +47,10 @@ return [
      "b_hostel_contact"=> "<p><b>संपर्क-</b> सूबेदार शिवमंगल सिंह <br/> (+91-8109178078)</p>",
      "i_hostel_contact"=> "<p><b>संपर्क-</b> आरक्षक राजकुमार <br/> (+91-9926592778)</p>",
      "g_hostel_contact"=> "<p><b>संपर्क-</b> सूबेदार स्मृति दोहरे <br/> (+91-7587612987)</p>",
+
+//Management Committee Page  
+"Mgnt-bhopal"=>"<h3>प्रबंध समिति- भोपाल </h3>
+
     
 //facilities Page
 "facilities_page"=>"<h3>सुविधायें </h3>
