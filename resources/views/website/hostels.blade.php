@@ -31,7 +31,7 @@
                             <p>{!! __('messages.b_hostel_time') !!}</p>
                             <p>{!! __('messages.b_hostel_contact') !!}</p>
                             <div class="btn-wrap pricing pt-3">
-                                <a href="apply.html" class="btn-buy">{{ __('messages.apply_now') }}</a>
+                                <a href="{{route('apply-now')}}" class="btn-buy">{{ __('messages.apply_now') }}</a>
                             </div>
                         </div>
                     </div>
@@ -43,7 +43,7 @@
                             <p>{!! __('messages.i_hostel_time') !!}</p>
                             <p>{!! __('messages.i_hostel_contact') !!}</p>
                             <div class="btn-wrap pricing pt-3">
-                                <a href="apply.html" class="btn-buy">{{ __('messages.apply_now') }}</a>
+                                <a href="{{route('apply-now')}}" class="btn-buy">{{ __('messages.apply_now') }}</a>
                             </div>
                         </div>
                     </div>
@@ -55,7 +55,7 @@
                             <p>{!! __('messages.g_hostel_time') !!}</p>
                             <p>{!! __('messages.g_hostel_contact') !!}</p>
                             <div class="btn-wrap pricing pt-3">
-                                <a href="apply.html" class="btn-buy">{{ __('messages.apply_now') }}</a>
+                                <a href="{{route('apply-now')}}" class="btn-buy">{{ __('messages.apply_now') }}</a>
                             </div>
                         </div>
                     </div>
