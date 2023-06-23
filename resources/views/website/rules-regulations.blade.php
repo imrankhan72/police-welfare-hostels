@@ -8,7 +8,7 @@
             <div class="d-flex justify-content-between align-items-center">
                 <h2>{{ __('messages.rules-regulations') }} </h2>
                 <ol>
-                    <li><a href="#">{{ __('messages.admission') }}</a></li>
+                    <li><a href="#">{{ __('messages.rules-eligibility') }}</a></li>
                     <li>{{ __('messages.rules-regulations') }}</li>
                 </ol>
             </div>
