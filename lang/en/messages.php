@@ -49,6 +49,8 @@ return [
  "i_hostel_contact"=> "<p><b>Contact-</b> Constable Rajkumar <br/> (+91-9926592778)</p>",
  "g_hostel_contact"=> "<p><b>Contact-</b> Subedaar Smrati Dohare <br/> (+91-7587612987)</p>",
 
+//Management Committee Page  
+
 //facilities Page
 "facilities_page"=>"<h3>Provided Facilities </h3>
                     <p>Accommodation Amenities Offered </p>",
