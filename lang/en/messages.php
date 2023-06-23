@@ -51,6 +51,47 @@ return [
 
 //Management Committee Page  
 "Mgnt-bhopal"=>"<h3>Management Committee- Bhopal </h3>",
+"b-team-name1"=>"<h4>Name- </h4>",
+"b-team-designation1"=>"<span>Designation- </span>",
+"b-team-mobile1"=>"<span>Mobile No- </span>",
+"b-team-name2"=>"<h3>Name- </h3>",
+"b-team-designation2"=>"<span>Designation- </span>",
+"b-team-mobile2"=>"<span>Mobile No- </span>",
+"b-team-name3"=>"<h3>Name- </h3>",
+"b-team-designation3"=>"<span>Designation- </span>",
+"b-team-mobile3"=>"<span>Mobile No- </span>",
+"b-team-name4"=>"<h3>Name- </h3>",
+"b-team-designation4"=>"<span>Designation- </span>",
+"b-team-mobile4"=>"<span>Mobile No- </span>",
+
+"Mgnt-indore"=>"<h3>Management Committee- Indore </h3>",
+"i-team-name1"=>"<h4>Name- </h4>",
+"i-team-designation1"=>"<span>Designation- </span>",
+"i-team-mobile1"=>"<span>Mobile No- </span>",
+"i-team-name2"=>"<h3>Name- </h3>",
+"i-team-designation2"=>"<span>Designation- </span>",
+"i-team-mobile2"=>"<span>Mobile No- </span>",
+"i-team-name3"=>"<h3>Name- </h3>",
+"i-team-designation3"=>"<span>Designation- </span>",
+"i-team-mobile3"=>"<span>Mobile No- </span>",
+"i-team-name4"=>"<h3>Name- </h3>",
+"i-team-designation4"=>"<span>Designation- </span>",
+"i-team-mobile4"=>"<span>Mobile No- </span>",
+
+"Mgnt-gwalior"=>"<h3>Management Committee- Gwalior </h3>",
+"g-team-name1"=>"<h4>Name- </h4>",
+"g-team-designation1"=>"<span>Designation- </span>",
+"g-team-mobile1"=>"<span>Mobile No- </span>",
+"g-team-name2"=>"<h3>Name- </h3>",
+"g-team-designation2"=>"<span>Designation- </span>",
+"g-team-mobile2"=>"<span>Mobile No- </span>",
+"g-team-name3"=>"<h3>Name- </h3>",
+"g-team-designation3"=>"<span>Designation- </span>",
+"g-team-mobile3"=>"<span>Mobile No- </span>",
+"g-team-name4"=>"<h3>Name- </h3>",
+"g-team-designation4"=>"<span>Designation- </span>",
+"g-team-mobile4"=>"<span>Mobile No- </span>",
+
 
 //facilities Page
 "facilities_page"=>"<h3>Provided Facilities </h3>
