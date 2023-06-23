@@ -29,8 +29,8 @@
               </div>
               <div class="member-info">
                 <h4>{!! __('messages.b-team-name1') !!}</h4>
-                <span>{{ __('messages.b-team-designation1') }}</span>
-                <span>{{ __('messages.b-team-mobile1') }}</span>
+                <span>{!! __('messages.b-team-designation1') !!}</span>
+                <span>{!! __('messages.b-team-mobile1') !!}</span>
               </div>
             </div>
           </div>
