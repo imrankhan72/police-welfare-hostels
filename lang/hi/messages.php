@@ -49,7 +49,7 @@ return [
      "g_hostel_contact"=> "<p><b>संपर्क-</b> सूबेदार स्मृति दोहरे <br/> (+91-7587612987)</p>",
 
 //Management Committee Page  
-"Mgnt-bhopal"=>"<h3>प्रबंध समिति- भोपाल </h3>
+"Mgnt-bhopal"=>"<h3>प्रबंध समिति- भोपाल </h3>;
 
     
 //facilities Page
