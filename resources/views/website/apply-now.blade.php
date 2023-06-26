@@ -40,7 +40,7 @@
 
             <div class="row">
           <div class="col-lg-12 aos-init aos-animate" data-aos="fade-right" data-aos-delay="100">
-              <div class="form-wrap">	
+              <div class="form-wrap">
 					<form id="survey-form">
 						<div class="row">
 							<div class="col-md-6">
@@ -56,7 +56,7 @@
 								</div>
 							</div>
 						</div>
-			
+
 						<div class="row">
 							<div class="col-md-6">
 								<div class="form-group">
@@ -172,7 +172,7 @@
 							</div>
 							<div class="col-md-6">
 								<div class="form-group">
-									<label id="name-label" for="Pempcode" class="fpb">{{ __('messages."p-emp-code') }} *</label>
+									<label id="name-label" for="Pempcode" class="fpb">{{ __('messages.p-emp-code') }} *</label>
 									<input type="text" name="Pempcode" id="Pempcode" placeholder="Enter Employee Code" class="form-control" required="">
 								</div>
 							</div>
@@ -182,13 +182,13 @@
 						<div class="row">
 							<div class="col-md-6">
 								<div class="form-group">
-									<label for="dud" class="fpb">{{ __('messages."p-unit') }} *</label>
+									<label for="dud" class="fpb">{{ __('messages.p-unit') }} *</label>
 									<input type="text" name="dud" id="dud" placeholder="Enter District" class="form-control" required="">
 								</div>
 							</div>
 							<div class="col-md-6">
 								<div class="form-group">
-									<label for="pps" class="fpb">{{ __('messages."p-station') }} *</label>
+									<label for="pps" class="fpb">{{ __('messages.p-station') }} *</label>
 									<input type="text" name="pps" id="pps" placeholder="Enter Police Station Name" class="form-control" required="">
 								</div>
 							</div>
@@ -199,13 +199,13 @@
 							<label for="name" class="fpb">Local Guardian (if any) / स्थानीय अभिभावक (यदि कोई हो तो)</label>
 							<div class="col-md-6">
 								<div class="form-group">
-									<label id="name-label" for="LName" class="fpb">{{ __('messages."g-name') }} </label>
+									<label id="name-label" for="LName" class="fpb">{{ __('messages.g-name') }} </label>
 									<input type="text" name="LName" id="LName" placeholder="Enter Name" class="form-control" required="">
 								</div>
 							</div>
 							<div class="col-md-6">
 								<div class="form-group">
-									<label id="name-label" for="LDesignation" class="fpb">{{ __('messages."g-relation') }} </label>
+									<label id="name-label" for="LDesignation" class="fpb">{{ __('messages.g-relation') }} </label>
 									<select id="dropdown" name="LDesignation" class="form-control" required="">
 										<option disabled="" selected="" value="">Select Relation</option>
 										<option value="student">Brother</option>
@@ -225,13 +225,13 @@
 							</div>
 							<div class="col-md-6">
 								<div class="form-group">
-									<label id="name-label" for="LMobile" class="fpb">{{ __('messages."g-mobile') }} </label>
+									<label id="name-label" for="LMobile" class="fpb">{{ __('messages.g-mobile') }} </label>
 									<input type="text" name="LMobile" id="LMobile" placeholder="Enter Mobile Number" class="form-control" required="">
 								</div>
 							</div>
 							<div class="col-md-6">
 								<div class="form-group">
-									<label id="name-label" for="LMobile" class="fpb">{{ __('messages."g-address') }} </label>
+									<label id="name-label" for="LMobile" class="fpb">{{ __('messages.g-address') }} </label>
 									<input type="text" name="LMobile" id="LMobile" placeholder="Enter Address" class="form-control" required="">
 								</div>
 							</div>
@@ -245,21 +245,21 @@
 							</div>
 							<div class="col-md-12">
 								<div class="form-group">
-									<label for="Photo" class="form-label fpb">{{ __('messages."a-photo') }} *</label>
+									<label for="Photo" class="form-label fpb">{{ __('messages.a-photo') }} *</label>
 									<input type="file" class="form-control" id="Photo">
-									<label for="Aadhaar" class="form-label fpb">{{ __('messages."a-aadhar') }} *</label>
+									<label for="Aadhaar" class="form-label fpb">{{ __('messages.a-aadhar') }} *</label>
 									<input type="file" class="form-control" id="Aadhaar">
-									<label for="10" class="form-label fpb">{{ __('messages."a-10th') }} *</label>
+									<label for="10" class="form-label fpb">{{ __('messages.a-10th') }} *</label>
 									<input type="file" class="form-control" id="10">
-									<label for="12" class="form-label fpb">{{ __('messages."a-12th') }} *</label>
+									<label for="12" class="form-label fpb">{{ __('messages.a-12th') }} *</label>
 									<input type="file" class="form-control" id="12">
-									<label for="pil" class="form-label fpb">{{ __('messages."a-parent-id') }} *</label>
+									<label for="pil" class="form-label fpb">{{ __('messages.a-parent-id') }} *</label>
 									<input type="file" class="form-control" id="pil">
-									<label for="psc" class="form-label fpb">{{ __('messages."a-parent-certificate') }} *</label>
+									<label for="psc" class="form-label fpb">{{ __('messages.a-parent-certificate') }} *</label>
 									<input type="file" class="form-control" id="psc">
-									<label for="lg" class="form-label fpb">{{ __('messages."a-gphoto') }} *</label>
+									<label for="lg" class="form-label fpb">{{ __('messages.a-gphoto') }} *</label>
 									<input type="file" class="form-control" id="lg">
-									<label for="id" class="form-label fpb">{{ __('messages."a-inst-id') }} *</label>
+									<label for="id" class="form-label fpb">{{ __('messages.a-inst-id') }} *</label>
 									<input type="file" class="form-control" id="id">
 								</div>
 							</div>

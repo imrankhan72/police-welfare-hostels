@@ -37,7 +37,7 @@ return [
                     <p>At Police Welfare Hostels, we strive to create a nurturing environment where the daughters of our police personnel can thrive academically and personally, with the support of our dedicated team.</p>
 
 ",
-//hostel Page    
+//hostel Page
 "hostel_page" => "
 <h3>Explore our Hostels</h3>
 <p>Madhya Pradesh Police Department will provide accommodation facilities to the daughters of Policemen who wish to stay in cities having better opportunities of higher education.</p>",
@@ -51,7 +51,7 @@ return [
  "i_hostel_contact"=> "<p><b>Contact-</b> Constable Rajkumar <br/> (+91-9926592778)</p>",
  "g_hostel_contact"=> "<p><b>Contact-</b> Subedaar Smrati Dohare <br/> (+91-7587612987)</p>",
 
-//Management Committee Page  
+//Management Committee Page
 "Mgnt-bhopal"=>"<h3>Management Committee- Bhopal </h3>",
 "b-team-name1"=>"<h4>Name- </h4>",
 "b-team-designation1"=>"<span>Designation- </span>",
@@ -195,7 +195,7 @@ return [
 "course"=>"Name of Course",
 "police-service"=>"Who is in the Police Service",
 "p-name"=>"Name",
-"p-designation "=>"Designation",
+"p-designation"=>"Designation",
 "p-mobile"=>"Mobile No.",
 "p-emp-code"=>"Employee Code",
 "p-unit"=>"Deployment Unit and District",
@@ -213,7 +213,7 @@ return [
 "a-gphoto"=>"Passport size photo of local Guardian",
 "a-inst-id"=>"Copy of identity card issued by coaching/college",
 
-    
+
 //Contact Us
 "contcat_us_page"=>"<h3>Contact Us</h3>
                     <p>If you have any queries, Please feel free to contact us on working hours.</p>",
