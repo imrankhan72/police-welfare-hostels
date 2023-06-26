@@ -216,6 +216,7 @@ return [
 "a-parent-certificate"=>"Copy of mother/father's police service certificate",
 "a-gphoto"=>"Passport size photo of local Guardian",
 "a-inst-id"=>"Copy of identity card issued by coaching/college",
+"submit-form"=>"Submit",
 
 
 //Contact Us
