@@ -136,8 +136,8 @@
 							<label for="name" class="fpb">Who is in the Police Service? Mother/ Father / पुलिस में कौन है, माता/पिता *</label>
 							<div class="col-md-6">
 								<div class="form-group">
-									<label id="name-label" for="PName" class="fpb">{{ __('messages.police-service') }} * </label>
-									<select id="dropdown" name="PDesignation" class="form-control" required="">
+									<label id="name-label" for="Police" class="fpb">{{ __('messages.police-service') }} * </label>
+									<select id="dropdown" name="Police" class="form-control" required="">
 										<option disabled="" selected="" value="">Select</option>
 										<option value="student">Father</option>
 										<option value="job">Mother</option>
@@ -153,7 +153,7 @@
 							</div>
 							<div class="col-md-6">
 								<div class="form-group">
-									<label id="name-label" for="PDeg" class="fpb">{{ __('messages.p-designation') }} *</label>
+									<label id="name-label" for="PDesignation" class="fpb">{{ __('messages.p-designation') }} *</label>
 									<select id="dropdown" name="PDesignation" class="form-control" required="">
 										<option disabled="" selected="" value="">Select Designation</option>
 										<option value="student">Inspector</option>
@@ -173,7 +173,7 @@
 							<div class="col-md-6">
 								<div class="form-group">
 									<label id="name-label" for="Pempcode" class="fpb">{{ __('messages."p-emp-code') }} *</label>
-									<input type="text" name="PMobile" id="PMobile" placeholder="Enter Employee Code" class="form-control" required="">
+									<input type="text" name="Pempcode" id="Pempcode" placeholder="Enter Employee Code" class="form-control" required="">
 								</div>
 							</div>
 						</div>
@@ -206,7 +206,7 @@
 							<div class="col-md-6">
 								<div class="form-group">
 									<label id="name-label" for="LDesignation" class="fpb">{{ __('messages."g-relation') }} </label>
-									<select id="dropdown" name="PDesignation" class="form-control" required="">
+									<select id="dropdown" name="LDesignation" class="form-control" required="">
 										<option disabled="" selected="" value="">Select Relation</option>
 										<option value="student">Brother</option>
 										<option value="job">Sister</option>
