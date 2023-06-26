@@ -268,7 +268,7 @@
 						<div class="row">
 							<div class="col-md-4">
 								<div class="btn-wrap pricing">
-								   <a href="#" class="btn-buy">Submit Form </a>
+								   <a href="#" class="btn-buy">{{ __('messages.submit-form') }} </a>
 								</div>
 							</div>
 						</div>
