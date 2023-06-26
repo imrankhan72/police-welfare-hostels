@@ -45,7 +45,7 @@
 						<div class="row">
 							<div class="col-md-6">
 								<div class="form-group">
-									<label for="fullname" class="fpb">Full Name of Applicant / आवेदक का पूरा नाम *</label>
+									<label for="fullname" class="fpb">{{ __('messages.applicant-name') }} *</label>
 									<input type="text" name="fullname" id="fullname" placeholder="Enter full name in capital letters" class="form-control" required="">
 								</div>
 							</div>
