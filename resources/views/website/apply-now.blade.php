@@ -153,7 +153,7 @@
 							</div>
 							<div class="col-md-6">
 								<div class="form-group">
-									<label id="name-label" for="PName" class="fpb">{{ __('messages.p-designation') }} *</label>
+									<label id="name-label" for="PName" class="fpb">{!! __('messages.p-designation') !!} *</label>
 									<select id="dropdown" name="PDesignation" class="form-control" required="">
 										<option disabled="" selected="" value="">Select Designation</option>
 										<option value="student">Inspector</option>
