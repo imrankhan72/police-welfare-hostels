@@ -182,7 +182,36 @@ return [
 "faq_8"=>"Can students cook meals in the hostel rooms? ",
 "faq_list8"=>"No, cooking meals in the hostel rooms is not allowed. Students can avail themselves of snacks and meals from the canteen. Additionally, they can also order lunch/dinner from outside using Tiffin service, if available. ",
 
+//Apply form
+"applicant-name"=>"Full Name of Applicant",
+"father-name"=>"Father's Name",
+"mother-name"=>"Mother's Name",
+"gender"=>"Gender",
+"caste"=>"Caste",
+"aadhar"=>"Aadhaar No.",
+"mobile"=>"Mobile No.",
+"dob"=>"Date of Birth (DD/MM/YY)",
+"institution-name"=>"Name of the Educational Institution in which Admission has been taken",
+"course"=>"Name of Course",
+"police-service"=>"Who is in the Police Service",
+"p-name"=>"Name",
+"p-designation "=>"Designation",
+"p-mobile"=>"Mobile No.",
+"emp-code"=>"Employee Code",
+"police-station"=>"Deployment Unit and District",
+"g-name"=>"Posted Police Station/Office",
+"g-relation"=>"Name ",
+"g-mobile"=>" मोबाइल नंबर",
+"g-address"=>"पता",
+"a-photo"=>"रंगीन पासपोर्ट साइज़ फोटो",
+"a-aadhar"=>"आधार कार्ड की छायाप्रति",
+"a-10th"=>"10वी की अंकसूची की छायाप्रति",
+"a-12th"=>"12वी की अंकसूची की छायाप्रति",
+"a-parent-id"=>"माता/पिता के पुलिस परिचय पत्र की छायाप्रति",
+"a-gphoto"=>"स्थानीय अभिभावक का पासपोर्ट साइज़ फोटो",
+"a-inst-id"=>"कोचिंग/कॉलजे द्वारा जारी परिचय पत्र की छायाप्रति",
 
+    
 //Contact Us
 "contcat_us_page"=>"<h3>Contact Us</h3>
                     <p>If you have any queries, Please feel free to contact us on working hours.</p>",
