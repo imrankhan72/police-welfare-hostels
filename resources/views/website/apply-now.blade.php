@@ -240,8 +240,8 @@
 						<hr>
 						<div class="row">
 							<div class="form-group">
-								<h5>Attachment checklist *</h5>
-								<p style="color:red; font-size:13px;">Note: Attachments should not exceed 500 KB and be in JPG, JEPG, and PNG formats.</p>
+								<h5>{{ __('messages.attachment') }} *</h5>
+								<p style="color:red; font-size:13px;">{{ __('messages.note') }}</p>
 							</div>
 							<div class="col-md-12">
 								<div class="form-group">
