@@ -133,7 +133,7 @@
 						<hr>
 
 						<div class="row">
-							<label for="name" class="fpb">Who is in the Police Service? Mother/ Father / पुलिस में कौन है, माता/पिता *</label>
+							<label for="name" class="fpb">{{ __('messages.police-title') }} *</label>
 							<div class="col-md-6">
 								<div class="form-group">
 									<label id="name-label" for="Police" class="fpb">{{ __('messages.police-service') }} * </label>
@@ -196,7 +196,7 @@
 						<hr>
 
 						<div class="row">
-							<label for="name" class="fpb">Local Guardian (if any) / स्थानीय अभिभावक (यदि कोई हो तो)</label>
+							<label for="name" class="fpb">{{ __('messages.lg') }}</label>
 							<div class="col-md-6">
 								<div class="form-group">
 									<label id="name-label" for="LName" class="fpb">{{ __('messages.g-name') }} </label>
