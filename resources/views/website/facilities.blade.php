@@ -24,7 +24,7 @@
                 <div class="col-lg-6 content d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="100">
                     <img src="assets/img/about.jpg" class="img-fluid" alt="">
                 </div>
-                <div class="col-lg-6 content d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="100">
+                <div class="col-lg-6 content d-flex flex-column" data-aos="fade-up" data-aos-delay="100">
                     <ul>
                         <ul style="text-align:left;">
                             <li>
