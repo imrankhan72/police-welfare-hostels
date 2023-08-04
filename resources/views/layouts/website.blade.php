@@ -124,10 +124,6 @@
 
 <!-- Template Main JS File -->
 <script src="/assets/js/main.js"></script>
-     <!-- Start of queryable.xyz script -->
-<script> window.embedId="99b8eb89-f22f-4d12-8f15-a97a108afe0b"; </script>
-<script src="https://query-able.xyz/embed.js"></script>
-<!-- End of queryable.xyz script --> 
 </body>
 
 </html>
